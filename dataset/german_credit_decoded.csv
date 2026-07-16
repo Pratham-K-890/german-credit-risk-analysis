@@ -1,0 +1,1001 @@
+checking_account,duration_months,credit_history,purpose,credit_amount,savings_account,employment_length,installment_rate,personal_status,other_debtors,residence_years,property,age,other_installment_plans,housing,num_existing_credits,job,num_dependents,telephone,foreign_worker,credit_risk
+0_to_200 DM,21,critical_account,furniture_equipment,2098,100_to_500 DM,1_to_4 years,2,male_single,none,4,building_society_savings,32,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,11,existing_credits_paid_duly,domestic_appliances,3710,<100 DM,<1 year,1,male_single,none,2,building_society_savings,34,none,own,2,highly_qualified_employee,1,none,yes,Good
+no_checking_account,23,existing_credits_paid_duly,business,3921,<100 DM,1_to_4 years,4,male_married_widowed,none,4,building_society_savings,54,none,own,2,skilled_employee,1,none,yes,Good
+>200 DM,26,existing_credits_paid_duly,car_new,1218,<100 DM,1_to_4 years,2,male_single,none,4,unknown_no_property,46,bank,for_free,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,25,existing_credits_paid_duly,car_new,1021,<100 DM,<1 year,4,male_single,none,2,car_or_other,46,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,32,existing_credits_paid_duly,education,1909,<100 DM,1_to_4 years,4,female_divorced_separated_married,guarantor,2,unknown_no_property,40,bank,own,1,skilled_employee,1,yes_registered,no,Bad
+<0 DM,29,existing_credits_paid_duly,furniture_equipment,3304,<100 DM,1_to_4 years,4,female_single,none,2,real_estate,27,none,own,1,highly_qualified_employee,1,none,yes,Bad
+no_checking_account,24,existing_credits_paid_duly,radio_television,1992,<100 DM,1_to_4 years,3,female_divorced_separated_married,co-applicant,2,car_or_other,36,stores,own,2,skilled_employee,1,none,yes,Good
+>200 DM,19,no_credits_taken,business,599,unknown_no_savings,4_to_7 years,4,male_single,none,3,car_or_other,46,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,9,no_credits_taken,car_new,1030,100_to_500 DM,unemployed,3,male_single,none,3,car_or_other,26,none,own,2,unemployed_unskilled_non_resident,1,none,yes,Good
+<0 DM,24,existing_credits_paid_duly,radio_television,1716,unknown_no_savings,>7 years,4,male_single,none,4,car_or_other,42,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,22,no_credits_taken,car_new,1714,500_to_1000 DM,4_to_7 years,3,male_single,none,3,car_or_other,65,none,own,3,unskilled_resident,1,none,yes,Good
+no_checking_account,22,existing_credits_paid_duly,furniture_equipment,7192,<100 DM,1_to_4 years,2,female_divorced_separated_married,none,1,unknown_no_property,47,none,rent,1,skilled_employee,2,none,yes,Good
+<0 DM,11,existing_credits_paid_duly,domestic_appliances,685,500_to_1000 DM,unemployed,3,male_single,none,4,car_or_other,52,bank,own,1,skilled_employee,1,none,yes,Good
+<0 DM,12,critical_account,furniture_equipment,2575,<100 DM,>7 years,3,male_single,none,2,real_estate,38,stores,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,32,existing_credits_paid_duly,others,5127,100_to_500 DM,>7 years,4,male_married_widowed,none,4,unknown_no_property,46,none,rent,2,skilled_employee,1,none,yes,Bad
+0_to_200 DM,19,existing_credits_paid_duly,radio_television,8866,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,1,building_society_savings,30,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+0_to_200 DM,27,existing_credits_paid_duly,car_used,1362,unknown_no_savings,1_to_4 years,4,female_single,none,4,real_estate,44,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,20,critical_account,car_new,2550,<100 DM,<1 year,2,male_single,none,1,unknown_no_property,43,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,20,existing_credits_paid_duly,furniture_equipment,2694,<100 DM,4_to_7 years,4,male_married_widowed,none,2,building_society_savings,39,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,30,all_credits_paid_back,furniture_equipment,2073,unknown_no_savings,<1 year,3,male_single,none,1,car_or_other,50,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,15,existing_credits_paid_duly,car_new,1687,<100 DM,1_to_4 years,4,male_single,none,4,real_estate,31,bank,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,20,existing_credits_paid_duly,furniture_equipment,2453,100_to_500 DM,4_to_7 years,4,female_single,none,4,real_estate,34,bank,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,16,existing_credits_paid_duly,furniture_equipment,307,500_to_1000 DM,1_to_4 years,1,female_single,none,2,building_society_savings,37,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,16,existing_credits_paid_duly,radio_television,2914,unknown_no_savings,1_to_4 years,4,male_single,none,4,real_estate,28,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,17,critical_account,radio_television,1975,unknown_no_savings,1_to_4 years,1,male_single,none,3,car_or_other,38,bank,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,22,existing_credits_paid_duly,radio_television,1547,unknown_no_savings,1_to_4 years,3,male_single,none,4,real_estate,23,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,16,delay_in_past,car_new,7576,<100 DM,unemployed,3,male_single,none,4,building_society_savings,47,none,own,1,skilled_employee,1,yes_registered,no,Bad
+>200 DM,35,critical_account,car_new,1127,unknown_no_savings,<1 year,2,male_single,none,2,real_estate,37,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,13,existing_credits_paid_duly,radio_television,1363,100_to_500 DM,>7 years,4,male_single,none,2,building_society_savings,32,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,18,existing_credits_paid_duly,furniture_equipment,7288,100_to_500 DM,<1 year,1,male_married_widowed,none,4,car_or_other,29,none,own,2,skilled_employee,1,none,yes,Good
+<0 DM,16,existing_credits_paid_duly,car_new,1009,<100 DM,4_to_7 years,2,female_divorced_separated_married,none,4,real_estate,34,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,38,existing_credits_paid_duly,domestic_appliances,1230,100_to_500 DM,>7 years,4,male_single,none,4,car_or_other,43,none,rent,3,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,21,existing_credits_paid_duly,radio_television,1631,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,4,unknown_no_property,41,none,own,2,highly_qualified_employee,1,none,yes,Good
+no_checking_account,31,critical_account,radio_television,3256,unknown_no_savings,1_to_4 years,4,male_single,none,1,car_or_other,30,bank,own,1,highly_qualified_employee,2,yes_registered,no,Good
+no_checking_account,10,critical_account,car_new,2091,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,4,car_or_other,29,none,own,3,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,22,existing_credits_paid_duly,radio_television,731,<100 DM,>7 years,4,male_single,none,2,real_estate,43,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,29,existing_credits_paid_duly,radio_television,1245,<100 DM,>7 years,3,male_single,none,4,real_estate,30,stores,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,20,critical_account,radio_television,1181,unknown_no_savings,4_to_7 years,1,male_married_widowed,none,3,unknown_no_property,37,none,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,32,critical_account,radio_television,1712,100_to_500 DM,<1 year,2,female_divorced_separated_married,none,3,car_or_other,37,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,15,critical_account,domestic_appliances,2435,<100 DM,4_to_7 years,3,male_single,co-applicant,3,car_or_other,39,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,37,no_credits_taken,radio_television,2422,<100 DM,1_to_4 years,4,male_single,none,2,car_or_other,45,none,for_free,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,56,delay_in_past,car_new,521,<100 DM,1_to_4 years,3,male_married_widowed,none,1,building_society_savings,26,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,17,all_credits_paid_back,radio_television,3807,<100 DM,unemployed,4,male_single,none,4,real_estate,22,stores,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,16,existing_credits_paid_duly,radio_television,2157,unknown_no_savings,<1 year,3,male_single,none,4,car_or_other,31,stores,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,38,all_credits_paid_back,radio_television,4765,100_to_500 DM,>7 years,1,male_single,none,2,car_or_other,57,none,own,2,unemployed_unskilled_non_resident,2,none,yes,Good
+0_to_200 DM,40,existing_credits_paid_duly,car_new,2467,<100 DM,1_to_4 years,2,male_married_widowed,none,4,building_society_savings,60,none,own,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,15,delay_in_past,car_new,3908,<100 DM,1_to_4 years,4,male_divorced_separated,none,4,unknown_no_property,57,bank,own,2,highly_qualified_employee,1,yes_registered,yes,Bad
+>200 DM,16,existing_credits_paid_duly,retraining,2506,<100 DM,1_to_4 years,4,male_single,none,2,building_society_savings,34,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,17,existing_credits_paid_duly,radio_television,4639,unknown_no_savings,>7 years,4,female_single,none,2,building_society_savings,23,none,own,1,highly_qualified_employee,2,yes_registered,yes,Good
+no_checking_account,10,existing_credits_paid_duly,business,2606,<100 DM,>7 years,2,male_single,none,4,unknown_no_property,20,bank,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,13,existing_credits_paid_duly,radio_television,1688,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,31,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,12,existing_credits_paid_duly,radio_television,8872,<100 DM,<1 year,2,male_single,none,3,car_or_other,34,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,14,existing_credits_paid_duly,radio_television,3368,100_to_500 DM,1_to_4 years,1,male_single,none,3,real_estate,50,none,own,1,skilled_employee,1,yes_registered,yes,Good
+>200 DM,19,critical_account,retraining,2701,100_to_500 DM,>7 years,4,male_single,none,1,real_estate,45,none,own,1,skilled_employee,2,none,yes,Good
+no_checking_account,22,all_credits_paid_back,radio_television,739,500_to_1000 DM,4_to_7 years,2,male_single,none,3,car_or_other,38,none,own,4,skilled_employee,1,yes_registered,yes,Good
+<0 DM,40,all_credits_paid_back,radio_television,733,<100 DM,1_to_4 years,4,male_single,none,2,building_society_savings,29,none,rent,1,skilled_employee,1,none,yes,Bad
+<0 DM,12,existing_credits_paid_duly,car_new,2219,<100 DM,4_to_7 years,2,male_single,none,2,car_or_other,28,none,own,1,skilled_employee,1,none,no,Good
+<0 DM,31,critical_account,furniture_equipment,2001,<100 DM,1_to_4 years,4,male_married_widowed,none,4,unknown_no_property,38,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,18,delay_in_past,radio_television,1176,100_to_500 DM,>7 years,4,female_divorced_separated_married,none,4,car_or_other,43,none,rent,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,19,delay_in_past,car_used,1995,<100 DM,1_to_4 years,2,male_single,none,2,building_society_savings,40,none,own,2,skilled_employee,1,none,yes,Bad
+<0 DM,27,existing_credits_paid_duly,car_new,5497,<100 DM,<1 year,4,male_single,none,2,car_or_other,28,none,own,3,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,12,existing_credits_paid_duly,car_used,2941,unknown_no_savings,<1 year,2,male_single,none,4,building_society_savings,43,none,rent,2,unskilled_resident,1,none,yes,Good
+0_to_200 DM,23,no_credits_taken,car_used,813,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,4,real_estate,40,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,21,delay_in_past,car_new,1672,<100 DM,>7 years,3,male_single,none,4,real_estate,28,none,own,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,25,critical_account,furniture_equipment,1029,<100 DM,1_to_4 years,2,male_married_widowed,none,4,building_society_savings,30,none,own,1,highly_qualified_employee,2,none,yes,Bad
+<0 DM,22,existing_credits_paid_duly,business,1378,<100 DM,>7 years,2,male_single,none,3,unknown_no_property,43,none,own,2,unemployed_unskilled_non_resident,2,yes_registered,yes,Bad
+no_checking_account,60,critical_account,furniture_equipment,1353,100_to_500 DM,>7 years,2,female_single,none,4,real_estate,34,none,own,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,15,critical_account,car_new,1294,unknown_no_savings,1_to_4 years,4,female_single,none,2,real_estate,54,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,15,existing_credits_paid_duly,car_new,750,<100 DM,unemployed,3,female_divorced_separated_married,none,2,unknown_no_property,41,bank,own,3,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,15,critical_account,radio_television,1653,<100 DM,<1 year,2,female_divorced_separated_married,guarantor,2,real_estate,32,none,rent,1,unskilled_resident,1,none,yes,Bad
+<0 DM,15,all_credits_paid_back,furniture_equipment,1221,unknown_no_savings,4_to_7 years,3,female_single,none,3,car_or_other,36,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,15,existing_credits_paid_duly,repairs,250,unknown_no_savings,<1 year,2,female_single,none,4,building_society_savings,37,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,34,existing_credits_paid_duly,radio_television,7608,<100 DM,1_to_4 years,4,female_divorced_separated_married,co-applicant,4,real_estate,30,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,38,no_credits_taken,radio_television,3874,<100 DM,1_to_4 years,4,male_divorced_separated,none,2,unknown_no_property,29,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,15,existing_credits_paid_duly,car_used,1389,<100 DM,4_to_7 years,3,female_divorced_separated_married,none,2,real_estate,43,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,13,existing_credits_paid_duly,radio_television,1832,<100 DM,<1 year,4,female_single,none,2,car_or_other,45,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,24,existing_credits_paid_duly,car_used,796,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,2,real_estate,42,bank,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,15,existing_credits_paid_duly,business,5925,unknown_no_savings,1_to_4 years,2,male_single,none,3,real_estate,53,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,26,all_credits_paid_back,radio_television,6823,500_to_1000 DM,1_to_4 years,4,male_married_widowed,none,4,real_estate,31,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,22,existing_credits_paid_duly,car_used,2017,<100 DM,>7 years,3,male_divorced_separated,none,4,real_estate,55,none,own,2,highly_qualified_employee,1,none,no,Good
+no_checking_account,10,existing_credits_paid_duly,car_used,3701,unknown_no_savings,<1 year,4,male_single,none,4,real_estate,29,bank,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,40,existing_credits_paid_duly,car_new,2044,<100 DM,>7 years,4,male_single,none,4,car_or_other,28,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,45,critical_account,radio_television,709,<100 DM,4_to_7 years,3,male_married_widowed,none,3,building_society_savings,23,none,for_free,3,skilled_employee,1,none,yes,Bad
+0_to_200 DM,15,delay_in_past,car_new,1355,<100 DM,1_to_4 years,4,male_single,none,2,building_society_savings,32,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,16,critical_account,radio_television,1982,<100 DM,4_to_7 years,4,male_single,none,3,building_society_savings,32,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,22,delay_in_past,car_used,1315,500_to_1000 DM,1_to_4 years,3,male_single,none,3,unknown_no_property,41,none,rent,2,unemployed_unskilled_non_resident,2,yes_registered,yes,Bad
+no_checking_account,23,existing_credits_paid_duly,radio_television,1551,<100 DM,<1 year,4,female_divorced_separated_married,none,4,unknown_no_property,38,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,27,delay_in_past,repairs,1695,<100 DM,4_to_7 years,2,male_divorced_separated,none,2,car_or_other,27,none,rent,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,49,existing_credits_paid_duly,radio_television,1708,<100 DM,1_to_4 years,4,male_single,none,2,unknown_no_property,33,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,18,existing_credits_paid_duly,radio_television,1875,<100 DM,4_to_7 years,4,male_single,none,2,building_society_savings,33,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,14,critical_account,car_new,860,<100 DM,1_to_4 years,1,male_married_widowed,none,4,building_society_savings,23,bank,rent,2,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,10,existing_credits_paid_duly,car_new,1094,<100 DM,>7 years,2,male_married_widowed,co-applicant,3,car_or_other,28,none,rent,1,highly_qualified_employee,1,none,yes,Good
+>200 DM,14,critical_account,radio_television,735,unknown_no_savings,4_to_7 years,4,male_single,none,4,car_or_other,30,bank,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,19,critical_account,furniture_equipment,3584,<100 DM,<1 year,1,male_single,none,4,building_society_savings,52,none,rent,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,45,critical_account,furniture_equipment,414,<100 DM,1_to_4 years,1,male_single,none,2,building_society_savings,38,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,15,critical_account,car_new,4054,<100 DM,>7 years,3,male_married_widowed,none,3,unknown_no_property,43,none,rent,1,skilled_employee,2,yes_registered,yes,Bad
+0_to_200 DM,22,existing_credits_paid_duly,car_used,4771,unknown_no_savings,>7 years,3,male_single,none,4,car_or_other,25,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,19,existing_credits_paid_duly,car_new,1463,<100 DM,1_to_4 years,3,male_single,none,3,building_society_savings,49,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,34,existing_credits_paid_duly,education,292,<100 DM,>7 years,2,male_single,none,4,car_or_other,50,none,own,1,highly_qualified_employee,2,yes_registered,yes,Good
+<0 DM,62,existing_credits_paid_duly,car_used,1404,<100 DM,1_to_4 years,2,male_single,none,2,real_estate,22,none,own,3,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,15,existing_credits_paid_duly,radio_television,1728,<100 DM,1_to_4 years,4,male_single,none,1,real_estate,30,bank,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,16,delay_in_past,car_new,891,<100 DM,>7 years,3,male_single,none,4,building_society_savings,41,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,32,delay_in_past,radio_television,1260,500_to_1000 DM,>7 years,2,female_divorced_separated_married,none,4,building_society_savings,42,none,rent,1,unskilled_resident,1,none,yes,Bad
+no_checking_account,27,existing_credits_paid_duly,car_used,5277,100_to_500 DM,4_to_7 years,2,male_single,none,4,real_estate,30,none,own,3,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,46,existing_credits_paid_duly,business,2879,<100 DM,>7 years,4,female_divorced_separated_married,none,4,car_or_other,33,stores,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,26,existing_credits_paid_duly,retraining,946,500_to_1000 DM,<1 year,1,female_divorced_separated_married,none,4,building_society_savings,31,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,17,existing_credits_paid_duly,car_used,590,100_to_500 DM,>7 years,2,male_single,none,4,car_or_other,37,none,own,1,unskilled_resident,2,yes_registered,yes,Good
+<0 DM,26,critical_account,business,1438,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,4,real_estate,49,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+<0 DM,33,existing_credits_paid_duly,others,1557,<100 DM,<1 year,4,male_single,none,3,real_estate,30,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,29,existing_credits_paid_duly,repairs,2558,<100 DM,1_to_4 years,4,male_single,none,2,unknown_no_property,47,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,25,no_credits_taken,education,1242,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,30,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,32,delay_in_past,car_used,2586,100_to_500 DM,1_to_4 years,4,male_single,co-applicant,2,unknown_no_property,29,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,33,delay_in_past,radio_television,7006,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,3,unknown_no_property,44,none,own,2,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,37,existing_credits_paid_duly,car_new,3199,unknown_no_savings,<1 year,3,female_divorced_separated_married,none,3,building_society_savings,46,stores,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,26,all_credits_paid_back,car_new,1748,100_to_500 DM,1_to_4 years,4,male_married_widowed,none,3,building_society_savings,45,bank,for_free,3,unskilled_resident,2,none,yes,Good
+no_checking_account,18,existing_credits_paid_duly,others,1590,<100 DM,1_to_4 years,1,male_single,none,3,unknown_no_property,26,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,21,existing_credits_paid_duly,car_used,1408,<100 DM,1_to_4 years,4,male_single,none,1,unknown_no_property,32,stores,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,34,delay_in_past,radio_television,4131,>1000 DM,1_to_4 years,4,male_divorced_separated,none,4,car_or_other,44,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,13,existing_credits_paid_duly,domestic_appliances,1165,<100 DM,4_to_7 years,3,male_single,none,3,car_or_other,36,stores,own,2,highly_qualified_employee,1,none,yes,Bad
+no_checking_account,23,existing_credits_paid_duly,education,1866,100_to_500 DM,>7 years,3,male_single,none,3,car_or_other,27,bank,for_free,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,16,existing_credits_paid_duly,others,1874,>1000 DM,>7 years,2,male_single,none,2,building_society_savings,41,bank,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,20,critical_account,car_used,1272,100_to_500 DM,1_to_4 years,4,male_single,none,1,car_or_other,30,none,rent,1,unskilled_resident,1,none,yes,Good
+<0 DM,35,existing_credits_paid_duly,car_new,691,unknown_no_savings,4_to_7 years,4,female_divorced_separated_married,none,2,car_or_other,57,none,own,1,skilled_employee,2,yes_registered,yes,Bad
+<0 DM,21,delay_in_past,furniture_equipment,2266,<100 DM,<1 year,4,male_single,none,4,car_or_other,53,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,20,existing_credits_paid_duly,car_new,1732,500_to_1000 DM,<1 year,3,male_married_widowed,none,1,real_estate,42,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,10,existing_credits_paid_duly,car_new,2566,unknown_no_savings,1_to_4 years,4,female_single,none,4,building_society_savings,51,bank,own,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,28,no_credits_taken,furniture_equipment,1244,<100 DM,>7 years,3,female_divorced_separated_married,none,2,real_estate,37,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,26,existing_credits_paid_duly,radio_television,4249,100_to_500 DM,1_to_4 years,4,male_single,none,2,real_estate,44,none,rent,1,unskilled_resident,1,none,yes,Bad
+0_to_200 DM,53,critical_account,radio_television,978,<100 DM,<1 year,3,female_divorced_separated_married,none,2,unknown_no_property,52,stores,for_free,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,17,existing_credits_paid_duly,car_used,5993,unknown_no_savings,<1 year,3,female_divorced_separated_married,none,1,real_estate,38,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,22,no_credits_taken,radio_television,532,<100 DM,>7 years,4,male_single,none,4,real_estate,34,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,22,no_credits_taken,car_new,2451,<100 DM,4_to_7 years,4,female_divorced_separated_married,guarantor,4,building_society_savings,23,none,own,1,highly_qualified_employee,2,none,yes,Bad
+0_to_200 DM,40,existing_credits_paid_duly,car_new,2521,<100 DM,1_to_4 years,4,male_single,none,3,car_or_other,35,none,own,2,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,19,existing_credits_paid_duly,radio_television,1035,500_to_1000 DM,1_to_4 years,1,male_single,none,2,car_or_other,44,stores,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,22,no_credits_taken,radio_television,2433,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,2,real_estate,46,none,own,1,unskilled_resident,1,none,yes,Good
+0_to_200 DM,26,critical_account,radio_television,4427,<100 DM,4_to_7 years,4,male_divorced_separated,none,3,real_estate,41,bank,rent,1,skilled_employee,1,yes_registered,no,Bad
+no_checking_account,21,existing_credits_paid_duly,car_new,383,<100 DM,<1 year,3,male_married_widowed,none,4,real_estate,31,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,16,existing_credits_paid_duly,education,2570,unknown_no_savings,>7 years,4,female_divorced_separated_married,none,2,building_society_savings,22,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,21,critical_account,radio_television,315,<100 DM,1_to_4 years,3,male_single,none,4,real_estate,32,none,for_free,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,32,existing_credits_paid_duly,radio_television,919,<100 DM,4_to_7 years,1,male_single,none,3,unknown_no_property,33,bank,rent,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,12,critical_account,radio_television,5655,500_to_1000 DM,unemployed,4,male_single,none,2,building_society_savings,33,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,21,existing_credits_paid_duly,education,1203,<100 DM,1_to_4 years,4,male_single,none,3,real_estate,42,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,14,critical_account,radio_television,794,unknown_no_savings,1_to_4 years,2,female_divorced_separated_married,none,1,car_or_other,60,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,34,existing_credits_paid_duly,radio_television,1574,<100 DM,1_to_4 years,2,female_divorced_separated_married,none,4,building_society_savings,37,none,own,3,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,10,critical_account,others,7688,100_to_500 DM,<1 year,4,female_divorced_separated_married,none,2,car_or_other,34,none,rent,1,unskilled_resident,1,none,yes,Bad
+no_checking_account,15,critical_account,radio_television,501,<100 DM,>7 years,1,male_single,guarantor,4,real_estate,34,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,23,existing_credits_paid_duly,furniture_equipment,866,<100 DM,<1 year,4,male_single,none,1,car_or_other,37,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,40,critical_account,radio_television,5157,100_to_500 DM,4_to_7 years,2,male_single,none,4,car_or_other,29,none,own,1,highly_qualified_employee,2,none,yes,Good
+0_to_200 DM,19,existing_credits_paid_duly,furniture_equipment,6636,<100 DM,>7 years,4,male_divorced_separated,none,2,unknown_no_property,37,none,own,2,skilled_employee,1,yes_registered,no,Good
+no_checking_account,15,existing_credits_paid_duly,car_new,1681,500_to_1000 DM,1_to_4 years,4,male_single,none,4,real_estate,40,bank,own,2,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,46,existing_credits_paid_duly,radio_television,759,<100 DM,4_to_7 years,4,male_single,none,4,building_society_savings,38,none,own,1,unskilled_resident,2,yes_registered,yes,Good
+<0 DM,10,existing_credits_paid_duly,business,7840,<100 DM,4_to_7 years,3,female_single,none,4,building_society_savings,41,none,own,1,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,7,existing_credits_paid_duly,business,5519,<100 DM,1_to_4 years,4,male_single,none,3,unknown_no_property,40,none,own,1,highly_qualified_employee,2,yes_registered,yes,Good
+no_checking_account,24,existing_credits_paid_duly,furniture_equipment,2908,unknown_no_savings,>7 years,3,male_single,none,4,unknown_no_property,23,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,16,existing_credits_paid_duly,radio_television,1023,<100 DM,1_to_4 years,2,male_single,none,2,real_estate,42,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,12,critical_account,car_new,1747,<100 DM,1_to_4 years,4,female_single,none,2,real_estate,30,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,27,critical_account,others,1616,<100 DM,4_to_7 years,4,male_married_widowed,none,3,building_society_savings,27,bank,rent,1,skilled_employee,1,none,yes,Good
+<0 DM,22,existing_credits_paid_duly,business,2279,<100 DM,1_to_4 years,4,male_single,none,2,real_estate,27,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,15,existing_credits_paid_duly,radio_television,4992,<100 DM,1_to_4 years,3,female_divorced_separated_married,none,4,building_society_savings,40,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,11,existing_credits_paid_duly,domestic_appliances,3346,unknown_no_savings,1_to_4 years,1,male_single,none,1,real_estate,34,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,29,existing_credits_paid_duly,radio_television,850,<100 DM,>7 years,1,male_single,none,3,car_or_other,24,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,26,all_credits_paid_back,radio_television,4738,unknown_no_savings,>7 years,3,male_single,none,4,unknown_no_property,41,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,19,existing_credits_paid_duly,car_new,2251,<100 DM,1_to_4 years,4,male_single,none,3,unknown_no_property,25,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,46,existing_credits_paid_duly,furniture_equipment,2924,100_to_500 DM,4_to_7 years,3,female_divorced_separated_married,none,4,building_society_savings,37,none,for_free,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,12,critical_account,radio_television,5047,unknown_no_savings,>7 years,4,male_single,none,1,car_or_other,38,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,10,existing_credits_paid_duly,radio_television,830,<100 DM,<1 year,1,male_married_widowed,none,3,unknown_no_property,45,none,own,3,skilled_employee,1,yes_registered,yes,Good
+<0 DM,14,existing_credits_paid_duly,furniture_equipment,1763,unknown_no_savings,<1 year,3,male_single,none,2,real_estate,57,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Bad
+<0 DM,19,existing_credits_paid_duly,business,1246,<100 DM,4_to_7 years,2,male_single,none,4,car_or_other,26,none,rent,2,unskilled_resident,1,none,yes,Bad
+>200 DM,22,existing_credits_paid_duly,car_new,603,unknown_no_savings,>7 years,3,male_single,none,4,building_society_savings,36,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,18,existing_credits_paid_duly,furniture_equipment,2304,100_to_500 DM,>7 years,1,male_married_widowed,none,4,real_estate,34,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,23,delay_in_past,radio_television,10489,<100 DM,1_to_4 years,4,male_married_widowed,none,1,building_society_savings,40,none,own,2,highly_qualified_employee,1,yes_registered,yes,Bad
+0_to_200 DM,11,existing_credits_paid_duly,radio_television,498,<100 DM,<1 year,2,male_single,none,2,real_estate,38,bank,own,1,unskilled_resident,1,none,yes,Bad
+<0 DM,38,existing_credits_paid_duly,radio_television,1767,<100 DM,1_to_4 years,4,male_single,none,2,car_or_other,33,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,19,critical_account,car_used,2830,<100 DM,<1 year,3,male_married_widowed,none,1,real_estate,32,bank,own,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,33,critical_account,car_new,1970,<100 DM,1_to_4 years,4,male_single,none,2,building_society_savings,27,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,23,delay_in_past,radio_television,1670,<100 DM,>7 years,3,male_single,none,4,real_estate,46,none,for_free,2,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,24,existing_credits_paid_duly,radio_television,728,<100 DM,<1 year,4,male_single,none,2,unknown_no_property,41,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,25,delay_in_past,car_new,2128,>1000 DM,>7 years,1,female_divorced_separated_married,none,3,building_society_savings,46,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,24,existing_credits_paid_duly,radio_television,1064,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,33,none,own,1,unemployed_unskilled_non_resident,1,yes_registered,yes,Bad
+0_to_200 DM,26,existing_credits_paid_duly,furniture_equipment,390,<100 DM,4_to_7 years,4,male_married_widowed,none,4,car_or_other,31,bank,own,3,skilled_employee,1,yes_registered,yes,Good
+<0 DM,36,no_credits_taken,radio_television,4172,100_to_500 DM,<1 year,2,male_single,guarantor,2,building_society_savings,27,none,own,1,skilled_employee,2,none,yes,Bad
+no_checking_account,21,existing_credits_paid_duly,education,3536,<100 DM,1_to_4 years,1,male_single,none,2,real_estate,40,bank,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,27,existing_credits_paid_duly,car_new,1874,<100 DM,<1 year,3,female_divorced_separated_married,none,3,car_or_other,28,bank,own,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,19,existing_credits_paid_duly,car_new,2122,<100 DM,>7 years,4,male_single,none,2,real_estate,58,bank,for_free,1,unskilled_resident,1,none,yes,Good
+no_checking_account,38,critical_account,radio_television,3835,unknown_no_savings,>7 years,3,male_single,none,4,real_estate,26,none,own,1,skilled_employee,2,none,yes,Good
+no_checking_account,14,critical_account,radio_television,2115,unknown_no_savings,1_to_4 years,3,female_divorced_separated_married,none,2,car_or_other,39,none,own,3,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,45,critical_account,radio_television,3404,<100 DM,<1 year,2,male_single,none,4,real_estate,54,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,19,existing_credits_paid_duly,education,1468,100_to_500 DM,>7 years,1,male_single,none,4,building_society_savings,42,none,own,3,skilled_employee,1,yes_registered,yes,Good
+<0 DM,10,critical_account,domestic_appliances,4529,<100 DM,1_to_4 years,4,male_single,none,3,building_society_savings,38,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,21,existing_credits_paid_duly,business,2263,100_to_500 DM,<1 year,1,male_single,none,2,building_society_savings,28,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,14,critical_account,radio_television,2071,100_to_500 DM,1_to_4 years,4,female_single,none,2,car_or_other,25,none,rent,2,skilled_employee,1,none,yes,Good
+no_checking_account,29,existing_credits_paid_duly,furniture_equipment,743,100_to_500 DM,>7 years,4,male_single,none,4,car_or_other,44,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,14,critical_account,furniture_equipment,2210,<100 DM,unemployed,2,female_divorced_separated_married,none,3,car_or_other,53,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+0_to_200 DM,16,existing_credits_paid_duly,car_new,1009,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,2,car_or_other,32,bank,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,8,critical_account,radio_television,1156,<100 DM,>7 years,1,male_single,none,2,building_society_savings,27,bank,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,16,critical_account,car_used,1021,unknown_no_savings,<1 year,4,male_single,none,2,building_society_savings,19,none,own,1,highly_qualified_employee,1,none,yes,Bad
+no_checking_account,6,existing_credits_paid_duly,business,857,<100 DM,<1 year,2,male_single,none,4,building_society_savings,28,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,9,existing_credits_paid_duly,radio_television,8001,unknown_no_savings,1_to_4 years,4,male_single,none,2,building_society_savings,35,none,own,3,highly_qualified_employee,2,yes_registered,yes,Good
+no_checking_account,28,critical_account,radio_television,4591,unknown_no_savings,>7 years,2,female_divorced_separated_married,none,3,unknown_no_property,54,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,28,existing_credits_paid_duly,furniture_equipment,6934,<100 DM,1_to_4 years,3,male_single,none,3,car_or_other,43,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,24,critical_account,car_new,768,100_to_500 DM,>7 years,4,male_single,none,3,real_estate,39,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,12,existing_credits_paid_duly,car_new,1900,100_to_500 DM,4_to_7 years,2,female_divorced_separated_married,none,4,real_estate,33,none,own,1,highly_qualified_employee,1,none,yes,Bad
+no_checking_account,19,existing_credits_paid_duly,furniture_equipment,731,unknown_no_savings,<1 year,4,female_divorced_separated_married,none,4,real_estate,31,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,20,existing_credits_paid_duly,car_new,1110,unknown_no_savings,>7 years,2,female_divorced_separated_married,none,3,real_estate,52,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,11,existing_credits_paid_duly,radio_television,950,100_to_500 DM,1_to_4 years,4,female_divorced_separated_married,co-applicant,1,real_estate,38,none,rent,1,skilled_employee,2,yes_registered,yes,Bad
+<0 DM,39,critical_account,education,4305,<100 DM,1_to_4 years,2,male_single,none,2,car_or_other,21,none,for_free,1,skilled_employee,1,none,yes,Bad
+no_checking_account,29,existing_credits_paid_duly,retraining,1370,>1000 DM,1_to_4 years,4,female_divorced_separated_married,none,3,unknown_no_property,30,none,own,4,unskilled_resident,1,none,yes,Good
+<0 DM,18,existing_credits_paid_duly,radio_television,3819,<100 DM,1_to_4 years,2,male_single,none,3,car_or_other,29,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,20,existing_credits_paid_duly,car_new,2759,>1000 DM,<1 year,3,female_divorced_separated_married,none,4,real_estate,31,none,own,1,highly_qualified_employee,2,none,yes,Good
+>200 DM,22,existing_credits_paid_duly,education,9068,unknown_no_savings,unemployed,2,female_single,none,2,building_society_savings,42,none,own,4,skilled_employee,1,none,yes,Good
+no_checking_account,8,critical_account,retraining,641,<100 DM,1_to_4 years,4,male_married_widowed,none,4,building_society_savings,35,bank,own,2,unskilled_resident,2,none,no,Bad
+no_checking_account,17,critical_account,car_new,4365,100_to_500 DM,>7 years,2,female_divorced_separated_married,none,2,car_or_other,35,none,own,4,skilled_employee,1,yes_registered,yes,Good
+<0 DM,14,existing_credits_paid_duly,radio_television,4033,<100 DM,1_to_4 years,4,male_single,guarantor,4,car_or_other,50,stores,own,3,skilled_employee,1,none,yes,Good
+no_checking_account,12,critical_account,car_used,914,<100 DM,>7 years,4,female_divorced_separated_married,none,2,unknown_no_property,30,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,17,critical_account,domestic_appliances,3659,<100 DM,1_to_4 years,2,male_single,none,4,building_society_savings,58,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,45,existing_credits_paid_duly,others,2287,500_to_1000 DM,1_to_4 years,4,male_divorced_separated,co-applicant,1,car_or_other,30,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,26,critical_account,car_new,1541,unknown_no_savings,<1 year,1,male_single,none,2,real_estate,37,none,own,1,unemployed_unskilled_non_resident,2,yes_registered,yes,Good
+no_checking_account,15,existing_credits_paid_duly,business,1015,unknown_no_savings,<1 year,3,male_single,guarantor,4,car_or_other,34,none,rent,2,skilled_employee,1,none,yes,Good
+no_checking_account,25,existing_credits_paid_duly,radio_television,1092,<100 DM,1_to_4 years,4,female_single,co-applicant,2,real_estate,37,none,own,1,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,37,critical_account,business,7592,unknown_no_savings,>7 years,4,female_divorced_separated_married,none,4,building_society_savings,40,none,own,2,highly_qualified_employee,1,none,yes,Bad
+>200 DM,30,existing_credits_paid_duly,furniture_equipment,1808,500_to_1000 DM,>7 years,4,male_married_widowed,none,4,car_or_other,40,bank,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,20,critical_account,education,3125,<100 DM,>7 years,2,male_single,none,3,real_estate,30,bank,own,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,15,critical_account,car_new,1039,<100 DM,<1 year,3,female_divorced_separated_married,none,2,real_estate,27,bank,own,2,skilled_employee,1,none,yes,Good
+<0 DM,27,all_credits_paid_back,car_used,1047,<100 DM,>7 years,2,male_single,guarantor,3,real_estate,68,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,23,critical_account,car_new,3856,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,3,real_estate,32,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,30,existing_credits_paid_duly,business,702,100_to_500 DM,<1 year,3,male_single,none,3,real_estate,43,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,26,existing_credits_paid_duly,repairs,1352,500_to_1000 DM,>7 years,4,male_single,none,4,real_estate,24,none,for_free,1,skilled_employee,1,none,yes,Good
+no_checking_account,32,delay_in_past,education,1851,<100 DM,4_to_7 years,2,male_single,none,2,real_estate,34,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,15,critical_account,business,1954,500_to_1000 DM,<1 year,2,male_single,none,2,real_estate,35,none,own,1,skilled_employee,2,none,yes,Good
+no_checking_account,36,no_credits_taken,car_new,1595,<100 DM,1_to_4 years,3,female_single,none,2,unknown_no_property,41,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,21,existing_credits_paid_duly,furniture_equipment,2385,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,1,building_society_savings,19,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+>200 DM,51,delay_in_past,car_new,2936,100_to_500 DM,4_to_7 years,3,female_single,none,2,real_estate,38,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,14,critical_account,car_new,3023,<100 DM,1_to_4 years,4,female_divorced_separated_married,guarantor,4,car_or_other,27,bank,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,43,delay_in_past,car_new,906,unknown_no_savings,>7 years,4,male_single,none,4,unknown_no_property,39,bank,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,21,existing_credits_paid_duly,furniture_equipment,1481,<100 DM,unemployed,3,male_single,none,2,car_or_other,28,stores,rent,2,skilled_employee,2,none,yes,Good
+0_to_200 DM,14,existing_credits_paid_duly,car_used,4172,100_to_500 DM,1_to_4 years,3,female_divorced_separated_married,none,4,building_society_savings,29,none,rent,1,unskilled_resident,1,none,yes,Good
+<0 DM,16,existing_credits_paid_duly,car_new,3382,<100 DM,1_to_4 years,1,male_married_widowed,none,3,car_or_other,34,bank,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,17,critical_account,car_new,691,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,28,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,24,existing_credits_paid_duly,car_new,2312,<100 DM,1_to_4 years,1,male_single,co-applicant,4,car_or_other,32,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,25,existing_credits_paid_duly,business,452,<100 DM,4_to_7 years,4,male_single,none,4,car_or_other,27,bank,rent,3,skilled_employee,2,none,yes,Good
+no_checking_account,15,critical_account,radio_television,1868,unknown_no_savings,>7 years,3,male_single,none,1,unknown_no_property,23,none,own,1,highly_qualified_employee,1,yes_registered,yes,Bad
+no_checking_account,19,no_credits_taken,business,6825,<100 DM,>7 years,3,male_single,none,2,unknown_no_property,47,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,52,critical_account,furniture_equipment,931,unknown_no_savings,>7 years,4,male_single,none,1,car_or_other,26,bank,own,2,unskilled_resident,2,none,yes,Bad
+<0 DM,43,delay_in_past,car_used,1008,unknown_no_savings,>7 years,1,female_divorced_separated_married,none,4,building_society_savings,34,none,own,2,skilled_employee,1,none,yes,Bad
+no_checking_account,24,critical_account,domestic_appliances,3086,<100 DM,1_to_4 years,4,male_single,none,2,car_or_other,44,none,own,1,unskilled_resident,1,none,yes,Good
+0_to_200 DM,20,existing_credits_paid_duly,car_used,614,<100 DM,>7 years,3,female_single,none,4,car_or_other,31,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,21,no_credits_taken,car_used,1161,100_to_500 DM,1_to_4 years,2,female_divorced_separated_married,none,2,real_estate,29,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,26,critical_account,car_new,2744,unknown_no_savings,1_to_4 years,3,female_divorced_separated_married,none,4,unknown_no_property,38,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,12,critical_account,car_new,1159,unknown_no_savings,1_to_4 years,4,male_single,none,2,real_estate,48,none,own,2,unskilled_resident,1,yes_registered,no,Good
+0_to_200 DM,17,critical_account,car_used,1532,<100 DM,1_to_4 years,4,male_single,none,2,building_society_savings,27,none,rent,1,skilled_employee,2,yes_registered,yes,Bad
+0_to_200 DM,9,existing_credits_paid_duly,furniture_equipment,3044,>1000 DM,1_to_4 years,1,male_single,none,2,unknown_no_property,35,none,own,4,highly_qualified_employee,1,none,yes,Good
+no_checking_account,24,critical_account,radio_television,2428,<100 DM,>7 years,4,female_divorced_separated_married,co-applicant,2,real_estate,23,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,26,critical_account,car_new,2179,unknown_no_savings,1_to_4 years,2,male_single,none,2,building_society_savings,33,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,16,delay_in_past,car_new,1425,unknown_no_savings,<1 year,2,female_divorced_separated_married,none,4,real_estate,36,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,40,critical_account,domestic_appliances,2342,<100 DM,1_to_4 years,2,male_single,co-applicant,1,building_society_savings,29,none,rent,1,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,11,critical_account,car_new,1658,<100 DM,unemployed,1,male_single,none,2,real_estate,32,none,rent,1,highly_qualified_employee,2,yes_registered,yes,Bad
+no_checking_account,10,existing_credits_paid_duly,furniture_equipment,2491,<100 DM,<1 year,2,male_single,none,4,building_society_savings,25,none,own,1,unskilled_resident,2,yes_registered,yes,Good
+>200 DM,22,all_credits_paid_back,education,1276,<100 DM,<1 year,4,male_single,none,1,building_society_savings,37,none,rent,1,skilled_employee,1,none,yes,Bad
+<0 DM,32,existing_credits_paid_duly,car_new,1591,>1000 DM,1_to_4 years,2,female_single,none,4,unknown_no_property,47,none,own,2,skilled_employee,1,none,yes,Bad
+no_checking_account,42,all_credits_paid_back,car_new,904,<100 DM,1_to_4 years,2,male_single,none,4,unknown_no_property,27,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,16,existing_credits_paid_duly,furniture_equipment,1764,<100 DM,>7 years,2,male_married_widowed,none,1,real_estate,31,none,own,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,32,existing_credits_paid_duly,car_used,1024,<100 DM,4_to_7 years,4,male_single,none,2,car_or_other,41,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,19,all_credits_paid_back,radio_television,828,unknown_no_savings,1_to_4 years,4,male_single,none,2,real_estate,49,none,for_free,1,skilled_employee,2,none,yes,Bad
+no_checking_account,18,existing_credits_paid_duly,domestic_appliances,2166,100_to_500 DM,1_to_4 years,2,male_divorced_separated,guarantor,4,real_estate,25,none,for_free,1,skilled_employee,1,none,yes,Bad
+no_checking_account,29,existing_credits_paid_duly,car_new,2098,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,3,real_estate,35,stores,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,26,critical_account,radio_television,3127,<100 DM,>7 years,2,female_divorced_separated_married,none,4,unknown_no_property,39,none,own,3,skilled_employee,2,none,yes,Good
+no_checking_account,9,critical_account,furniture_equipment,1337,unknown_no_savings,unemployed,1,male_single,none,4,unknown_no_property,35,none,rent,2,skilled_employee,2,yes_registered,yes,Bad
+0_to_200 DM,39,all_credits_paid_back,car_new,2405,unknown_no_savings,unemployed,2,male_married_widowed,none,1,real_estate,19,stores,for_free,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,37,critical_account,radio_television,2658,<100 DM,>7 years,3,male_single,none,4,real_estate,41,none,own,1,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,15,existing_credits_paid_duly,car_used,2468,<100 DM,1_to_4 years,2,male_single,guarantor,4,real_estate,53,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,24,existing_credits_paid_duly,furniture_equipment,1014,<100 DM,<1 year,3,male_single,none,3,car_or_other,37,bank,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,25,all_credits_paid_back,car_new,2007,<100 DM,1_to_4 years,2,male_single,none,4,car_or_other,28,none,rent,2,skilled_employee,1,none,yes,Good
+no_checking_account,22,existing_credits_paid_duly,furniture_equipment,2332,<100 DM,>7 years,4,male_single,none,4,real_estate,32,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,15,critical_account,car_used,1817,unknown_no_savings,>7 years,4,male_single,none,2,car_or_other,56,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,14,critical_account,repairs,419,<100 DM,4_to_7 years,4,male_single,none,2,building_society_savings,45,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,19,all_credits_paid_back,car_new,2023,unknown_no_savings,1_to_4 years,3,female_divorced_separated_married,none,3,unknown_no_property,42,none,own,1,unskilled_resident,1,none,yes,Good
+no_checking_account,34,all_credits_paid_back,furniture_equipment,8508,<100 DM,1_to_4 years,3,female_single,none,1,car_or_other,40,none,rent,4,highly_qualified_employee,2,yes_registered,yes,Good
+no_checking_account,25,existing_credits_paid_duly,furniture_equipment,1405,500_to_1000 DM,>7 years,3,female_divorced_separated_married,none,4,building_society_savings,31,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,17,existing_credits_paid_duly,radio_television,1086,500_to_1000 DM,>7 years,4,female_divorced_separated_married,none,1,car_or_other,34,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,28,existing_credits_paid_duly,radio_television,2348,<100 DM,<1 year,3,male_married_widowed,none,4,car_or_other,35,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,5,existing_credits_paid_duly,radio_television,2249,<100 DM,>7 years,4,male_single,none,3,building_society_savings,41,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,33,critical_account,radio_television,4166,100_to_500 DM,<1 year,4,male_single,none,1,building_society_savings,53,bank,own,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,9,critical_account,education,749,<100 DM,<1 year,3,male_single,none,4,unknown_no_property,48,none,own,3,highly_qualified_employee,1,yes_registered,yes,Bad
+>200 DM,17,existing_credits_paid_duly,car_used,3016,<100 DM,4_to_7 years,3,male_single,none,4,real_estate,25,none,own,1,unskilled_resident,2,none,yes,Good
+<0 DM,12,critical_account,radio_television,2733,<100 DM,1_to_4 years,1,male_single,none,3,real_estate,38,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,11,existing_credits_paid_duly,education,1636,unknown_no_savings,>7 years,2,male_single,none,2,building_society_savings,44,none,own,2,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,33,existing_credits_paid_duly,others,2291,<100 DM,<1 year,3,male_single,none,1,car_or_other,42,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,16,existing_credits_paid_duly,retraining,3716,>1000 DM,1_to_4 years,2,male_single,none,2,car_or_other,31,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+>200 DM,23,delay_in_past,furniture_equipment,3329,<100 DM,>7 years,4,male_single,guarantor,2,unknown_no_property,75,none,own,3,highly_qualified_employee,1,none,yes,Bad
+<0 DM,19,critical_account,car_new,812,>1000 DM,>7 years,2,female_single,none,3,car_or_other,26,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,24,existing_credits_paid_duly,furniture_equipment,3210,<100 DM,<1 year,3,male_divorced_separated,none,4,real_estate,27,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,20,existing_credits_paid_duly,radio_television,1727,unknown_no_savings,1_to_4 years,4,male_single,none,3,car_or_other,38,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,11,delay_in_past,furniture_equipment,1902,<100 DM,4_to_7 years,4,male_single,none,4,car_or_other,62,none,rent,2,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,31,existing_credits_paid_duly,furniture_equipment,1903,100_to_500 DM,<1 year,3,female_single,none,4,real_estate,29,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,16,critical_account,education,1627,100_to_500 DM,>7 years,4,male_divorced_separated,none,3,real_estate,34,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,9,existing_credits_paid_duly,furniture_equipment,4163,<100 DM,>7 years,4,male_single,none,4,real_estate,47,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,16,existing_credits_paid_duly,education,1705,<100 DM,<1 year,3,male_married_widowed,guarantor,3,car_or_other,36,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,39,existing_credits_paid_duly,furniture_equipment,825,<100 DM,<1 year,1,female_divorced_separated_married,none,4,unknown_no_property,33,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+<0 DM,29,delay_in_past,car_used,1372,<100 DM,<1 year,3,male_married_widowed,none,2,car_or_other,42,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,17,all_credits_paid_back,furniture_equipment,2048,unknown_no_savings,>7 years,4,male_divorced_separated,none,1,unknown_no_property,39,none,rent,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,17,delay_in_past,radio_television,4274,<100 DM,<1 year,4,male_single,none,4,real_estate,47,none,own,2,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,17,existing_credits_paid_duly,car_new,2757,<100 DM,1_to_4 years,4,female_single,none,3,unknown_no_property,50,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,51,critical_account,car_new,996,500_to_1000 DM,1_to_4 years,3,male_single,none,4,car_or_other,39,bank,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,23,critical_account,business,10297,<100 DM,4_to_7 years,2,male_single,none,4,building_society_savings,39,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,24,critical_account,car_new,2176,<100 DM,<1 year,1,male_divorced_separated,none,1,unknown_no_property,38,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,31,existing_credits_paid_duly,radio_television,4415,<100 DM,<1 year,2,female_single,none,3,building_society_savings,41,none,for_free,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,22,existing_credits_paid_duly,radio_television,1625,unknown_no_savings,>7 years,4,male_single,guarantor,2,unknown_no_property,37,none,rent,4,highly_qualified_employee,1,none,yes,Good
+no_checking_account,17,existing_credits_paid_duly,furniture_equipment,2626,unknown_no_savings,>7 years,4,male_divorced_separated,none,4,unknown_no_property,36,none,own,2,skilled_employee,1,none,yes,Bad
+<0 DM,18,critical_account,radio_television,3253,unknown_no_savings,>7 years,2,male_single,none,4,car_or_other,49,none,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,19,existing_credits_paid_duly,car_new,4241,<100 DM,unemployed,3,male_single,none,2,car_or_other,53,none,own,3,unskilled_resident,1,none,yes,Good
+<0 DM,19,existing_credits_paid_duly,radio_television,3790,500_to_1000 DM,1_to_4 years,3,female_divorced_separated_married,none,3,real_estate,25,bank,for_free,1,skilled_employee,2,none,yes,Good
+<0 DM,27,existing_credits_paid_duly,furniture_equipment,3329,<100 DM,4_to_7 years,3,female_divorced_separated_married,none,4,car_or_other,36,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,20,existing_credits_paid_duly,radio_television,1450,<100 DM,1_to_4 years,2,female_divorced_separated_married,none,2,building_society_savings,30,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,27,delay_in_past,car_new,1211,<100 DM,>7 years,2,male_single,none,4,car_or_other,33,none,own,2,unskilled_resident,2,none,yes,Good
+no_checking_account,19,all_credits_paid_back,radio_television,2282,<100 DM,4_to_7 years,2,male_single,none,3,car_or_other,40,none,rent,2,skilled_employee,2,none,yes,Good
+0_to_200 DM,20,critical_account,car_new,3474,<100 DM,<1 year,1,male_single,none,4,unknown_no_property,43,none,own,1,unskilled_resident,1,none,no,Bad
+<0 DM,8,existing_credits_paid_duly,car_used,1547,<100 DM,>7 years,2,male_married_widowed,none,2,real_estate,35,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,30,no_credits_taken,car_new,3810,<100 DM,>7 years,1,male_married_widowed,co-applicant,1,car_or_other,22,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,23,existing_credits_paid_duly,car_new,4998,<100 DM,<1 year,4,male_single,none,3,unknown_no_property,28,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,31,all_credits_paid_back,repairs,952,500_to_1000 DM,1_to_4 years,2,male_divorced_separated,none,1,car_or_other,45,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,5,existing_credits_paid_duly,car_used,1006,<100 DM,1_to_4 years,4,male_single,none,4,real_estate,19,bank,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,51,delay_in_past,business,1638,500_to_1000 DM,1_to_4 years,2,male_single,none,1,real_estate,49,none,own,3,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,18,all_credits_paid_back,business,2242,<100 DM,<1 year,3,male_single,none,4,real_estate,41,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,33,critical_account,radio_television,1252,>1000 DM,4_to_7 years,3,male_single,co-applicant,3,car_or_other,50,bank,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,12,no_credits_taken,car_new,4658,<100 DM,>7 years,1,male_single,none,2,car_or_other,34,none,for_free,3,skilled_employee,1,yes_registered,yes,Good
+>200 DM,26,existing_credits_paid_duly,furniture_equipment,2432,<100 DM,1_to_4 years,4,female_single,none,1,unknown_no_property,21,none,for_free,3,skilled_employee,1,none,yes,Good
+no_checking_account,12,critical_account,radio_television,1858,<100 DM,<1 year,1,female_divorced_separated_married,none,4,building_society_savings,40,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,15,existing_credits_paid_duly,furniture_equipment,661,100_to_500 DM,4_to_7 years,4,male_single,none,3,building_society_savings,50,none,own,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,47,existing_credits_paid_duly,car_new,719,unknown_no_savings,1_to_4 years,4,male_divorced_separated,none,2,car_or_other,46,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,18,existing_credits_paid_duly,radio_television,2201,<100 DM,>7 years,3,female_single,none,4,car_or_other,31,none,rent,1,skilled_employee,2,none,yes,Bad
+no_checking_account,22,existing_credits_paid_duly,education,406,<100 DM,1_to_4 years,3,female_divorced_separated_married,none,2,unknown_no_property,37,bank,own,2,skilled_employee,2,none,yes,Good
+<0 DM,29,critical_account,radio_television,3673,unknown_no_savings,<1 year,4,female_divorced_separated_married,none,3,car_or_other,32,none,own,3,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,25,existing_credits_paid_duly,car_new,1618,100_to_500 DM,<1 year,3,male_single,none,3,building_society_savings,29,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,21,critical_account,radio_television,17503,<100 DM,>7 years,4,male_single,none,1,car_or_other,46,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,23,critical_account,car_new,9095,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,4,unknown_no_property,27,none,for_free,1,highly_qualified_employee,1,yes_registered,yes,Bad
+no_checking_account,59,existing_credits_paid_duly,car_new,1592,<100 DM,>7 years,1,male_single,none,2,building_society_savings,29,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,19,critical_account,education,1678,100_to_500 DM,<1 year,3,male_single,none,1,real_estate,27,none,own,3,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,21,existing_credits_paid_duly,car_used,3629,<100 DM,1_to_4 years,3,male_divorced_separated,none,2,real_estate,25,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,32,critical_account,car_used,5956,unknown_no_savings,1_to_4 years,4,male_single,co-applicant,3,real_estate,37,none,for_free,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,33,existing_credits_paid_duly,car_new,574,<100 DM,>7 years,2,male_married_widowed,none,3,car_or_other,48,none,own,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,34,delay_in_past,education,517,<100 DM,>7 years,4,male_single,none,4,real_estate,34,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,26,existing_credits_paid_duly,radio_television,1169,<100 DM,<1 year,2,male_single,none,1,real_estate,25,stores,for_free,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,12,existing_credits_paid_duly,radio_television,2718,unknown_no_savings,1_to_4 years,3,male_single,none,2,building_society_savings,45,stores,rent,2,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,41,delay_in_past,radio_television,2560,>1000 DM,<1 year,2,male_single,none,4,car_or_other,55,none,own,3,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,11,delay_in_past,car_new,3823,<100 DM,1_to_4 years,3,female_divorced_separated_married,none,1,building_society_savings,31,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,23,no_credits_taken,furniture_equipment,780,500_to_1000 DM,1_to_4 years,2,male_single,none,4,car_or_other,32,none,for_free,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,14,existing_credits_paid_duly,furniture_equipment,357,<100 DM,>7 years,3,male_married_widowed,none,1,real_estate,41,stores,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,19,critical_account,car_new,3296,<100 DM,>7 years,4,female_single,none,4,real_estate,54,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,23,delay_in_past,furniture_equipment,1012,<100 DM,1_to_4 years,3,male_single,none,2,building_society_savings,32,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,23,critical_account,business,440,<100 DM,1_to_4 years,3,male_divorced_separated,none,3,building_society_savings,26,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,24,critical_account,car_new,2001,<100 DM,>7 years,4,female_divorced_separated_married,none,2,building_society_savings,42,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,41,critical_account,car_used,3150,unknown_no_savings,>7 years,4,male_single,none,1,real_estate,44,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,24,delay_in_past,car_new,1659,<100 DM,unemployed,3,male_single,none,2,unknown_no_property,36,bank,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,17,existing_credits_paid_duly,car_used,1312,unknown_no_savings,1_to_4 years,2,female_divorced_separated_married,none,1,car_or_other,31,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,30,existing_credits_paid_duly,business,1617,<100 DM,1_to_4 years,4,female_single,none,2,real_estate,46,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,34,critical_account,furniture_equipment,1394,100_to_500 DM,<1 year,4,male_single,none,3,real_estate,41,none,own,1,skilled_employee,1,yes_registered,yes,Good
+>200 DM,11,delay_in_past,furniture_equipment,703,<100 DM,<1 year,2,female_single,none,3,unknown_no_property,30,bank,own,1,highly_qualified_employee,1,none,yes,Bad
+no_checking_account,26,all_credits_paid_back,radio_television,1096,<100 DM,unemployed,2,male_single,none,4,car_or_other,37,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+>200 DM,27,existing_credits_paid_duly,car_new,2604,<100 DM,4_to_7 years,4,male_single,none,4,building_society_savings,26,none,rent,2,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,17,critical_account,furniture_equipment,2264,<100 DM,1_to_4 years,1,male_single,co-applicant,3,car_or_other,43,none,rent,1,skilled_employee,2,none,yes,Good
+no_checking_account,37,existing_credits_paid_duly,furniture_equipment,2033,100_to_500 DM,unemployed,4,male_single,none,2,car_or_other,34,none,own,4,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,18,existing_credits_paid_duly,radio_television,900,<100 DM,<1 year,2,male_single,none,3,car_or_other,32,stores,own,1,skilled_employee,1,none,yes,Good
+>200 DM,21,existing_credits_paid_duly,others,1592,>1000 DM,>7 years,4,male_single,none,2,building_society_savings,36,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,18,existing_credits_paid_duly,radio_television,393,<100 DM,>7 years,3,male_single,none,4,building_society_savings,36,none,rent,1,skilled_employee,1,yes_registered,no,Good
+0_to_200 DM,20,existing_credits_paid_duly,furniture_equipment,2048,<100 DM,1_to_4 years,3,female_single,none,2,real_estate,45,bank,rent,2,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,12,existing_credits_paid_duly,repairs,4915,<100 DM,1_to_4 years,4,male_single,none,1,unknown_no_property,42,none,own,2,unemployed_unskilled_non_resident,1,none,yes,Good
+no_checking_account,10,all_credits_paid_back,car_new,644,unknown_no_savings,>7 years,3,male_single,co-applicant,4,car_or_other,35,none,own,3,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,41,critical_account,car_new,1199,500_to_1000 DM,<1 year,3,male_married_widowed,none,2,real_estate,44,none,for_free,4,unemployed_unskilled_non_resident,2,none,yes,Bad
+<0 DM,13,existing_credits_paid_duly,car_new,2276,<100 DM,<1 year,1,female_divorced_separated_married,none,4,unknown_no_property,40,none,own,1,skilled_employee,2,none,yes,Good
+<0 DM,12,critical_account,furniture_equipment,4345,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,4,unknown_no_property,32,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,7,critical_account,furniture_equipment,1321,<100 DM,<1 year,2,male_single,co-applicant,1,unknown_no_property,35,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,15,existing_credits_paid_duly,radio_television,1113,unknown_no_savings,1_to_4 years,4,male_single,none,1,unknown_no_property,35,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,11,delay_in_past,business,455,100_to_500 DM,>7 years,2,male_married_widowed,none,3,unknown_no_property,41,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,42,existing_credits_paid_duly,furniture_equipment,1943,<100 DM,4_to_7 years,2,male_single,none,3,real_estate,33,bank,rent,2,highly_qualified_employee,2,yes_registered,yes,Good
+0_to_200 DM,31,critical_account,furniture_equipment,7551,<100 DM,1_to_4 years,3,male_single,none,2,car_or_other,33,none,rent,3,skilled_employee,1,none,yes,Bad
+no_checking_account,14,existing_credits_paid_duly,car_new,2195,<100 DM,>7 years,4,male_single,none,4,car_or_other,59,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,55,delay_in_past,car_new,1780,unknown_no_savings,unemployed,4,male_divorced_separated,none,3,real_estate,46,none,own,1,skilled_employee,1,yes_registered,no,Good
+no_checking_account,31,existing_credits_paid_duly,radio_television,2265,<100 DM,<1 year,2,male_single,none,2,real_estate,30,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,17,existing_credits_paid_duly,furniture_equipment,1794,100_to_500 DM,1_to_4 years,1,male_married_widowed,none,1,unknown_no_property,42,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,6,existing_credits_paid_duly,education,1023,<100 DM,4_to_7 years,4,female_divorced_separated_married,none,4,building_society_savings,37,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,56,delay_in_past,car_new,3217,500_to_1000 DM,unemployed,2,male_single,none,2,unknown_no_property,40,none,own,3,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,10,critical_account,car_new,2117,>1000 DM,1_to_4 years,4,male_single,none,4,real_estate,37,none,own,2,unemployed_unskilled_non_resident,1,none,yes,Good
+no_checking_account,9,existing_credits_paid_duly,furniture_equipment,1830,100_to_500 DM,4_to_7 years,4,female_divorced_separated_married,guarantor,2,real_estate,49,none,own,2,unskilled_resident,2,yes_registered,yes,Good
+no_checking_account,31,delay_in_past,car_used,913,100_to_500 DM,4_to_7 years,4,female_divorced_separated_married,none,3,building_society_savings,39,none,for_free,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,60,existing_credits_paid_duly,car_new,4502,unknown_no_savings,4_to_7 years,2,female_single,none,4,real_estate,36,bank,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,37,critical_account,radio_television,2879,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,47,none,own,3,skilled_employee,1,yes_registered,yes,Good
+<0 DM,25,existing_credits_paid_duly,car_new,1227,<100 DM,<1 year,4,female_divorced_separated_married,none,2,car_or_other,38,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,26,critical_account,radio_television,3645,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,2,real_estate,37,bank,own,4,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,29,existing_credits_paid_duly,car_used,1276,unknown_no_savings,<1 year,3,male_single,none,4,real_estate,39,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,28,existing_credits_paid_duly,car_new,1045,<100 DM,>7 years,2,male_single,none,2,building_society_savings,35,stores,own,2,unskilled_resident,1,none,yes,Good
+0_to_200 DM,22,all_credits_paid_back,furniture_equipment,1062,500_to_1000 DM,1_to_4 years,2,male_single,none,2,real_estate,36,none,for_free,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,21,existing_credits_paid_duly,domestic_appliances,523,100_to_500 DM,1_to_4 years,3,female_divorced_separated_married,none,4,car_or_other,31,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,19,existing_credits_paid_duly,furniture_equipment,2515,<100 DM,>7 years,4,female_single,none,2,building_society_savings,30,none,own,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,14,existing_credits_paid_duly,radio_television,501,<100 DM,1_to_4 years,3,male_single,none,1,real_estate,28,none,own,2,skilled_employee,2,none,yes,Good
+no_checking_account,17,critical_account,car_new,765,<100 DM,1_to_4 years,3,male_single,none,1,building_society_savings,25,none,own,2,skilled_employee,1,none,yes,Bad
+no_checking_account,9,no_credits_taken,radio_television,422,<100 DM,>7 years,3,male_single,co-applicant,4,real_estate,29,none,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,19,existing_credits_paid_duly,car_used,1702,<100 DM,>7 years,4,male_single,none,4,real_estate,35,none,own,3,skilled_employee,1,none,yes,Good
+no_checking_account,12,existing_credits_paid_duly,radio_television,1627,<100 DM,4_to_7 years,4,male_married_widowed,none,2,real_estate,37,none,own,4,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,12,no_credits_taken,radio_television,1438,unknown_no_savings,unemployed,2,female_single,none,2,unknown_no_property,34,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,21,existing_credits_paid_duly,business,871,unknown_no_savings,1_to_4 years,3,male_single,none,2,unknown_no_property,20,none,own,3,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,37,existing_credits_paid_duly,furniture_equipment,795,<100 DM,>7 years,2,male_married_widowed,none,4,car_or_other,54,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,30,existing_credits_paid_duly,car_new,2502,<100 DM,<1 year,4,male_single,none,1,building_society_savings,48,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,9,existing_credits_paid_duly,car_new,1229,<100 DM,<1 year,4,female_single,none,4,real_estate,40,bank,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,12,existing_credits_paid_duly,repairs,2256,100_to_500 DM,>7 years,4,female_divorced_separated_married,none,2,car_or_other,58,bank,for_free,3,skilled_employee,1,none,yes,Good
+no_checking_account,30,existing_credits_paid_duly,radio_television,972,unknown_no_savings,unemployed,2,male_single,none,4,car_or_other,28,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,12,no_credits_taken,radio_television,2052,<100 DM,>7 years,4,male_single,none,2,unknown_no_property,58,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,18,existing_credits_paid_duly,car_used,4502,<100 DM,1_to_4 years,1,male_married_widowed,none,4,real_estate,28,none,rent,1,unskilled_resident,1,none,yes,Good
+no_checking_account,25,critical_account,furniture_equipment,2725,>1000 DM,1_to_4 years,4,male_divorced_separated,none,2,real_estate,38,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,12,existing_credits_paid_duly,car_new,1354,100_to_500 DM,unemployed,1,male_single,none,1,car_or_other,26,bank,own,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,21,delay_in_past,business,2164,<100 DM,>7 years,4,male_single,none,4,car_or_other,36,bank,own,1,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,11,existing_credits_paid_duly,radio_television,1527,100_to_500 DM,1_to_4 years,3,male_single,none,4,unknown_no_property,40,stores,rent,2,highly_qualified_employee,1,none,yes,Good
+no_checking_account,15,critical_account,business,1818,<100 DM,1_to_4 years,4,male_single,none,2,car_or_other,35,none,own,3,skilled_employee,1,yes_registered,yes,Good
+>200 DM,23,critical_account,car_used,1439,<100 DM,4_to_7 years,4,male_married_widowed,none,4,unknown_no_property,43,none,own,2,skilled_employee,1,none,no,Bad
+no_checking_account,9,existing_credits_paid_duly,radio_television,1611,>1000 DM,4_to_7 years,2,male_single,none,3,building_society_savings,37,none,own,2,unskilled_resident,1,none,yes,Good
+0_to_200 DM,24,critical_account,radio_television,2097,>1000 DM,>7 years,1,male_married_widowed,none,4,unknown_no_property,32,none,for_free,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,19,existing_credits_paid_duly,car_used,902,<100 DM,1_to_4 years,4,male_single,none,2,unknown_no_property,31,none,for_free,1,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,25,no_credits_taken,education,887,unknown_no_savings,1_to_4 years,2,male_single,none,3,unknown_no_property,44,none,for_free,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,22,critical_account,business,684,<100 DM,>7 years,2,male_single,none,3,building_society_savings,31,none,rent,1,highly_qualified_employee,1,none,yes,Good
+no_checking_account,37,critical_account,retraining,589,>1000 DM,4_to_7 years,3,male_divorced_separated,none,2,real_estate,46,none,rent,3,unskilled_resident,1,none,yes,Good
+no_checking_account,21,existing_credits_paid_duly,radio_television,771,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,49,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,16,existing_credits_paid_duly,car_used,2021,unknown_no_savings,<1 year,1,male_single,none,2,building_society_savings,24,bank,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,21,no_credits_taken,car_used,967,unknown_no_savings,>7 years,2,male_single,none,2,unknown_no_property,48,bank,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,25,existing_credits_paid_duly,business,2590,<100 DM,1_to_4 years,1,male_single,none,3,real_estate,61,bank,for_free,2,unskilled_resident,1,yes_registered,no,Good
+<0 DM,20,critical_account,car_new,1852,unknown_no_savings,4_to_7 years,3,male_single,none,4,real_estate,38,bank,own,1,skilled_employee,1,none,yes,Bad
+>200 DM,20,existing_credits_paid_duly,radio_television,455,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,2,car_or_other,42,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,14,existing_credits_paid_duly,radio_television,2859,>1000 DM,<1 year,4,female_divorced_separated_married,none,2,real_estate,47,none,for_free,2,skilled_employee,1,none,yes,Good
+no_checking_account,14,existing_credits_paid_duly,radio_television,3189,<100 DM,4_to_7 years,4,male_single,guarantor,4,building_society_savings,34,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,10,no_credits_taken,others,901,>1000 DM,unemployed,2,male_single,guarantor,2,building_society_savings,38,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,44,existing_credits_paid_duly,car_used,2426,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,4,car_or_other,26,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,11,delay_in_past,furniture_equipment,992,<100 DM,1_to_4 years,3,male_single,none,4,real_estate,37,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,14,critical_account,car_new,1935,unknown_no_savings,1_to_4 years,2,male_single,none,3,unknown_no_property,41,none,own,3,skilled_employee,1,none,yes,Good
+no_checking_account,14,critical_account,furniture_equipment,746,<100 DM,>7 years,4,male_single,none,4,building_society_savings,41,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,30,no_credits_taken,car_used,515,<100 DM,>7 years,4,male_single,none,4,unknown_no_property,47,stores,rent,2,highly_qualified_employee,1,yes_registered,yes,Bad
+<0 DM,17,critical_account,furniture_equipment,1383,<100 DM,>7 years,4,male_single,guarantor,3,building_society_savings,30,none,for_free,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,35,critical_account,education,1658,<100 DM,unemployed,4,male_single,none,3,real_estate,32,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,14,critical_account,business,1368,100_to_500 DM,<1 year,2,male_single,none,4,real_estate,58,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,22,existing_credits_paid_duly,car_new,789,<100 DM,1_to_4 years,2,male_single,none,3,real_estate,35,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,13,existing_credits_paid_duly,furniture_equipment,1366,unknown_no_savings,>7 years,4,male_single,none,4,car_or_other,38,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,52,existing_credits_paid_duly,business,2183,<100 DM,>7 years,2,male_single,co-applicant,2,real_estate,35,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,11,all_credits_paid_back,car_new,1752,<100 DM,>7 years,3,male_divorced_separated,none,2,building_society_savings,29,bank,own,1,unemployed_unskilled_non_resident,1,yes_registered,yes,Bad
+no_checking_account,23,existing_credits_paid_duly,car_new,2054,<100 DM,1_to_4 years,4,male_single,none,2,car_or_other,54,none,own,2,skilled_employee,1,none,yes,Bad
+0_to_200 DM,26,existing_credits_paid_duly,car_new,1131,<100 DM,1_to_4 years,4,male_single,none,1,real_estate,32,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,24,existing_credits_paid_duly,radio_television,4105,unknown_no_savings,1_to_4 years,3,female_single,none,1,real_estate,27,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,18,critical_account,car_new,793,100_to_500 DM,<1 year,4,male_married_widowed,none,4,car_or_other,32,bank,rent,1,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,18,existing_credits_paid_duly,business,2543,unknown_no_savings,unemployed,4,male_single,none,4,unknown_no_property,22,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,20,all_credits_paid_back,furniture_equipment,4135,<100 DM,>7 years,4,male_single,none,4,real_estate,31,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,18,critical_account,furniture_equipment,2531,<100 DM,1_to_4 years,2,female_divorced_separated_married,none,3,real_estate,28,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,30,critical_account,car_used,1569,<100 DM,1_to_4 years,2,male_single,none,4,unknown_no_property,42,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,54,critical_account,furniture_equipment,1249,<100 DM,<1 year,2,male_single,none,3,real_estate,30,none,for_free,4,skilled_employee,1,none,yes,Bad
+no_checking_account,15,critical_account,radio_television,3734,<100 DM,>7 years,2,male_single,none,4,unknown_no_property,45,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+>200 DM,10,existing_credits_paid_duly,radio_television,667,100_to_500 DM,4_to_7 years,2,male_single,none,2,real_estate,51,none,own,1,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,19,critical_account,radio_television,916,<100 DM,4_to_7 years,2,female_divorced_separated_married,none,4,unknown_no_property,44,stores,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,64,all_credits_paid_back,radio_television,1368,500_to_1000 DM,>7 years,3,female_single,co-applicant,4,building_society_savings,34,bank,own,2,skilled_employee,1,none,yes,Good
+<0 DM,13,existing_credits_paid_duly,business,4299,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,2,unknown_no_property,37,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,41,existing_credits_paid_duly,repairs,2358,<100 DM,4_to_7 years,2,female_single,none,3,building_society_savings,24,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,42,existing_credits_paid_duly,radio_television,918,100_to_500 DM,unemployed,4,female_single,none,3,car_or_other,35,none,own,3,skilled_employee,1,none,yes,Bad
+0_to_200 DM,15,existing_credits_paid_duly,car_new,1455,<100 DM,<1 year,4,male_single,none,2,real_estate,29,none,own,1,skilled_employee,2,none,yes,Good
+<0 DM,25,delay_in_past,car_new,1176,unknown_no_savings,>7 years,1,male_single,none,3,real_estate,43,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,41,critical_account,car_new,1100,100_to_500 DM,>7 years,4,male_single,none,2,car_or_other,69,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,16,existing_credits_paid_duly,radio_television,3587,<100 DM,1_to_4 years,4,male_single,none,1,car_or_other,41,none,own,3,skilled_employee,1,none,yes,Bad
+no_checking_account,18,existing_credits_paid_duly,furniture_equipment,692,unknown_no_savings,1_to_4 years,3,male_single,none,4,unknown_no_property,22,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,15,critical_account,furniture_equipment,5575,<100 DM,1_to_4 years,4,male_single,none,4,building_society_savings,33,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,12,delay_in_past,retraining,3228,<100 DM,unemployed,2,male_single,none,4,unknown_no_property,37,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,14,existing_credits_paid_duly,business,3880,100_to_500 DM,1_to_4 years,4,male_single,none,4,building_society_savings,37,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,11,delay_in_past,business,1307,<100 DM,<1 year,1,male_single,none,2,unknown_no_property,30,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,20,existing_credits_paid_duly,car_used,1627,>1000 DM,1_to_4 years,4,male_single,none,3,unknown_no_property,38,stores,own,3,skilled_employee,1,none,yes,Good
+no_checking_account,14,existing_credits_paid_duly,radio_television,663,unknown_no_savings,>7 years,3,male_single,none,4,building_society_savings,26,none,own,1,skilled_employee,1,none,no,Good
+<0 DM,22,critical_account,car_used,1252,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,co-applicant,4,unknown_no_property,28,none,own,2,skilled_employee,1,none,yes,Bad
+no_checking_account,9,existing_credits_paid_duly,car_new,2554,<100 DM,<1 year,2,female_divorced_separated_married,none,2,unknown_no_property,43,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,23,existing_credits_paid_duly,car_new,4479,<100 DM,1_to_4 years,4,male_single,none,4,real_estate,28,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,29,critical_account,furniture_equipment,832,500_to_1000 DM,>7 years,4,female_divorced_separated_married,none,4,car_or_other,41,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,8,critical_account,furniture_equipment,1399,<100 DM,1_to_4 years,3,female_divorced_separated_married,none,4,real_estate,25,none,own,1,unskilled_resident,1,none,yes,Good
+no_checking_account,23,all_credits_paid_back,repairs,1626,<100 DM,<1 year,4,male_married_widowed,none,4,car_or_other,56,none,for_free,2,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,34,existing_credits_paid_duly,car_new,680,<100 DM,1_to_4 years,3,male_divorced_separated,none,2,real_estate,30,none,for_free,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,11,no_credits_taken,radio_television,2735,<100 DM,>7 years,4,male_single,none,4,real_estate,34,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,42,delay_in_past,radio_television,1089,<100 DM,1_to_4 years,3,male_single,none,4,building_society_savings,39,none,for_free,2,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,24,existing_credits_paid_duly,car_used,1576,unknown_no_savings,>7 years,4,male_married_widowed,none,1,car_or_other,31,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,14,existing_credits_paid_duly,furniture_equipment,1317,unknown_no_savings,>7 years,4,male_single,co-applicant,4,unknown_no_property,37,none,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,19,critical_account,car_used,1040,<100 DM,>7 years,3,male_single,none,3,unknown_no_property,42,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,25,existing_credits_paid_duly,radio_television,1799,<100 DM,4_to_7 years,2,male_single,none,3,building_society_savings,46,bank,own,4,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,20,existing_credits_paid_duly,furniture_equipment,1554,<100 DM,1_to_4 years,3,male_single,none,3,real_estate,44,none,own,1,skilled_employee,2,none,yes,Good
+0_to_200 DM,25,existing_credits_paid_duly,car_new,1393,unknown_no_savings,unemployed,4,male_single,co-applicant,2,car_or_other,35,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,13,delay_in_past,car_new,1085,<100 DM,>7 years,2,female_divorced_separated_married,none,3,car_or_other,35,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+>200 DM,21,all_credits_paid_back,radio_television,2261,500_to_1000 DM,1_to_4 years,3,female_single,none,4,building_society_savings,65,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,10,existing_credits_paid_duly,business,5753,<100 DM,<1 year,4,male_single,none,1,building_society_savings,46,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,19,critical_account,furniture_equipment,1994,100_to_500 DM,4_to_7 years,3,male_single,none,2,building_society_savings,29,none,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,13,existing_credits_paid_duly,radio_television,3631,<100 DM,1_to_4 years,4,male_single,guarantor,1,building_society_savings,37,bank,own,2,highly_qualified_employee,1,yes_registered,yes,Bad
+no_checking_account,14,existing_credits_paid_duly,radio_television,683,>1000 DM,4_to_7 years,2,male_single,none,2,car_or_other,33,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,35,existing_credits_paid_duly,business,2019,<100 DM,4_to_7 years,2,male_married_widowed,none,4,car_or_other,35,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,32,all_credits_paid_back,repairs,838,100_to_500 DM,1_to_4 years,4,male_single,none,4,unknown_no_property,26,none,for_free,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,26,existing_credits_paid_duly,radio_television,643,<100 DM,>7 years,1,male_single,none,4,car_or_other,33,bank,own,3,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,12,existing_credits_paid_duly,radio_television,1077,500_to_1000 DM,1_to_4 years,2,female_divorced_separated_married,none,3,real_estate,57,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,17,existing_credits_paid_duly,business,4164,unknown_no_savings,1_to_4 years,4,male_married_widowed,none,2,unknown_no_property,42,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,34,all_credits_paid_back,furniture_equipment,3515,<100 DM,1_to_4 years,3,male_single,none,4,car_or_other,19,stores,for_free,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,21,critical_account,car_used,2143,unknown_no_savings,4_to_7 years,4,female_divorced_separated_married,none,4,real_estate,49,none,own,1,skilled_employee,1,yes_registered,yes,Good
+>200 DM,57,critical_account,car_new,618,<100 DM,>7 years,4,female_divorced_separated_married,co-applicant,3,car_or_other,48,bank,own,1,unskilled_resident,1,yes_registered,yes,Bad
+<0 DM,23,critical_account,repairs,1575,<100 DM,1_to_4 years,2,male_single,none,4,building_society_savings,33,stores,own,1,unskilled_resident,2,none,yes,Bad
+no_checking_account,21,critical_account,domestic_appliances,2233,<100 DM,4_to_7 years,1,female_single,none,4,car_or_other,43,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,17,existing_credits_paid_duly,car_new,2044,<100 DM,<1 year,4,male_single,none,4,building_society_savings,29,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,21,critical_account,radio_television,497,100_to_500 DM,>7 years,3,male_single,none,2,car_or_other,32,stores,own,1,unskilled_resident,1,none,yes,Good
+0_to_200 DM,18,existing_credits_paid_duly,furniture_equipment,969,500_to_1000 DM,1_to_4 years,2,male_divorced_separated,none,4,real_estate,53,stores,for_free,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,27,critical_account,car_new,1728,<100 DM,4_to_7 years,4,male_single,none,1,building_society_savings,34,none,own,1,unemployed_unskilled_non_resident,1,yes_registered,yes,Good
+no_checking_account,30,critical_account,business,2631,<100 DM,unemployed,1,male_single,none,2,unknown_no_property,22,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,14,critical_account,car_new,388,>1000 DM,<1 year,4,female_single,none,2,car_or_other,36,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,11,critical_account,car_new,1614,unknown_no_savings,1_to_4 years,2,male_single,guarantor,2,real_estate,35,none,own,3,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,8,existing_credits_paid_duly,radio_television,1998,<100 DM,>7 years,2,male_married_widowed,none,1,real_estate,49,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,25,existing_credits_paid_duly,radio_television,3277,unknown_no_savings,1_to_4 years,2,male_single,none,2,building_society_savings,36,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,12,existing_credits_paid_duly,car_new,2936,<100 DM,>7 years,4,male_divorced_separated,none,4,car_or_other,32,none,rent,1,skilled_employee,2,none,yes,Good
+no_checking_account,7,existing_credits_paid_duly,radio_television,2718,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,47,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,23,all_credits_paid_back,radio_television,1032,unknown_no_savings,1_to_4 years,4,male_single,none,4,car_or_other,37,bank,rent,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,61,delay_in_past,car_new,475,<100 DM,<1 year,3,female_single,none,2,building_society_savings,30,bank,own,2,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,20,critical_account,car_new,1373,<100 DM,>7 years,3,male_married_widowed,none,3,car_or_other,48,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,29,existing_credits_paid_duly,radio_television,3645,<100 DM,1_to_4 years,2,female_divorced_separated_married,none,4,building_society_savings,38,bank,own,1,skilled_employee,1,yes_registered,no,Bad
+<0 DM,20,critical_account,car_used,4795,unknown_no_savings,>7 years,3,female_divorced_separated_married,none,2,real_estate,36,stores,own,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,19,critical_account,business,2973,unknown_no_savings,>7 years,3,female_divorced_separated_married,none,4,car_or_other,38,bank,own,3,unemployed_unskilled_non_resident,1,yes_registered,yes,Bad
+0_to_200 DM,30,critical_account,repairs,2441,<100 DM,>7 years,4,female_single,none,4,unknown_no_property,28,none,rent,3,skilled_employee,1,none,yes,Bad
+no_checking_account,17,critical_account,business,2358,<100 DM,1_to_4 years,2,male_married_widowed,none,1,car_or_other,32,none,for_free,2,unskilled_resident,1,none,yes,Bad
+no_checking_account,22,existing_credits_paid_duly,car_used,1225,<100 DM,4_to_7 years,4,male_single,none,4,car_or_other,36,none,own,3,skilled_employee,1,none,yes,Good
+<0 DM,23,critical_account,business,1650,<100 DM,>7 years,2,male_single,none,4,car_or_other,34,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,14,critical_account,furniture_equipment,5815,<100 DM,<1 year,4,male_single,none,1,unknown_no_property,50,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,31,existing_credits_paid_duly,furniture_equipment,934,>1000 DM,4_to_7 years,1,male_single,none,1,building_society_savings,38,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,18,existing_credits_paid_duly,car_new,5599,<100 DM,unemployed,3,male_single,none,1,building_society_savings,45,none,for_free,2,skilled_employee,1,none,yes,Good
+no_checking_account,14,critical_account,car_new,1443,<100 DM,1_to_4 years,3,male_single,none,2,unknown_no_property,36,stores,own,3,skilled_employee,1,none,yes,Good
+no_checking_account,25,existing_credits_paid_duly,radio_television,4572,<100 DM,<1 year,3,male_divorced_separated,none,3,unknown_no_property,47,bank,rent,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,13,delay_in_past,furniture_equipment,675,<100 DM,<1 year,4,female_divorced_separated_married,none,3,building_society_savings,40,bank,for_free,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,20,delay_in_past,car_new,2724,unknown_no_savings,1_to_4 years,3,male_married_widowed,co-applicant,2,building_society_savings,36,bank,own,2,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,20,existing_credits_paid_duly,radio_television,1079,<100 DM,1_to_4 years,3,male_single,none,4,building_society_savings,36,none,own,3,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,32,existing_credits_paid_duly,car_used,671,<100 DM,4_to_7 years,4,male_single,none,2,real_estate,28,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,24,critical_account,radio_television,2106,<100 DM,<1 year,4,male_single,none,1,unknown_no_property,41,none,own,3,highly_qualified_employee,2,yes_registered,yes,Bad
+no_checking_account,19,existing_credits_paid_duly,furniture_equipment,3665,<100 DM,1_to_4 years,4,male_single,guarantor,2,building_society_savings,36,none,rent,1,unemployed_unskilled_non_resident,1,yes_registered,yes,Good
+no_checking_account,29,no_credits_taken,repairs,1000,<100 DM,<1 year,2,male_single,none,3,unknown_no_property,32,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,37,no_credits_taken,repairs,633,<100 DM,4_to_7 years,4,male_single,none,2,real_estate,48,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+>200 DM,25,existing_credits_paid_duly,furniture_equipment,1695,<100 DM,4_to_7 years,4,male_single,none,2,car_or_other,26,none,rent,1,unemployed_unskilled_non_resident,1,yes_registered,no,Good
+no_checking_account,20,critical_account,furniture_equipment,1700,<100 DM,1_to_4 years,3,male_single,none,2,real_estate,32,none,own,1,skilled_employee,1,yes_registered,no,Good
+no_checking_account,11,existing_credits_paid_duly,furniture_equipment,2654,<100 DM,4_to_7 years,3,female_divorced_separated_married,guarantor,4,car_or_other,47,stores,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,12,delay_in_past,domestic_appliances,3514,<100 DM,1_to_4 years,2,male_single,none,4,car_or_other,39,stores,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,17,existing_credits_paid_duly,car_used,1734,unknown_no_savings,>7 years,2,male_single,none,2,car_or_other,36,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,15,existing_credits_paid_duly,car_new,6626,<100 DM,1_to_4 years,2,male_single,none,2,real_estate,38,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,18,critical_account,car_new,2115,<100 DM,1_to_4 years,2,male_single,none,4,real_estate,38,bank,own,1,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,20,critical_account,furniture_equipment,1418,<100 DM,4_to_7 years,4,male_single,none,4,real_estate,25,stores,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,25,existing_credits_paid_duly,furniture_equipment,585,<100 DM,unemployed,4,female_divorced_separated_married,none,2,building_society_savings,33,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,19,existing_credits_paid_duly,education,1504,500_to_1000 DM,4_to_7 years,4,male_single,none,4,car_or_other,54,none,own,1,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,25,no_credits_taken,car_new,1428,<100 DM,4_to_7 years,4,female_single,none,3,car_or_other,31,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,20,existing_credits_paid_duly,furniture_equipment,3541,500_to_1000 DM,1_to_4 years,1,female_divorced_separated_married,none,3,car_or_other,33,bank,rent,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,8,delay_in_past,domestic_appliances,2499,<100 DM,<1 year,4,male_single,none,4,car_or_other,31,none,own,2,skilled_employee,2,none,yes,Good
+<0 DM,13,existing_credits_paid_duly,repairs,791,<100 DM,<1 year,4,male_single,none,4,real_estate,35,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,18,existing_credits_paid_duly,furniture_equipment,2039,>1000 DM,>7 years,3,female_divorced_separated_married,none,4,real_estate,31,none,for_free,3,unskilled_resident,2,none,yes,Good
+0_to_200 DM,11,existing_credits_paid_duly,furniture_equipment,2893,<100 DM,4_to_7 years,4,male_single,none,1,real_estate,41,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,26,critical_account,car_used,5269,<100 DM,<1 year,4,male_single,none,2,unknown_no_property,38,none,own,4,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,39,critical_account,business,3365,<100 DM,1_to_4 years,3,male_single,none,3,car_or_other,44,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,34,all_credits_paid_back,car_new,3079,500_to_1000 DM,4_to_7 years,4,male_married_widowed,none,2,real_estate,28,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+>200 DM,18,critical_account,business,1885,<100 DM,>7 years,1,male_single,none,4,real_estate,33,none,own,1,skilled_employee,1,none,yes,Good
+>200 DM,39,existing_credits_paid_duly,radio_television,2372,unknown_no_savings,unemployed,2,female_divorced_separated_married,none,4,unknown_no_property,34,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,21,existing_credits_paid_duly,radio_television,4335,<100 DM,1_to_4 years,3,female_single,none,4,car_or_other,41,none,own,1,skilled_employee,1,none,no,Good
+0_to_200 DM,17,critical_account,car_new,711,unknown_no_savings,>7 years,4,male_single,none,4,car_or_other,30,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,15,critical_account,furniture_equipment,1415,<100 DM,unemployed,4,male_single,guarantor,2,building_society_savings,46,none,rent,2,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,17,critical_account,furniture_equipment,1052,500_to_1000 DM,<1 year,4,male_single,none,4,real_estate,49,none,rent,1,unskilled_resident,1,yes_registered,no,Bad
+no_checking_account,16,existing_credits_paid_duly,car_new,2357,<100 DM,>7 years,3,male_single,guarantor,4,unknown_no_property,28,bank,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,21,existing_credits_paid_duly,radio_television,4277,unknown_no_savings,4_to_7 years,1,male_single,none,2,car_or_other,32,none,rent,1,highly_qualified_employee,1,none,yes,Good
+no_checking_account,21,critical_account,business,1190,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,4,building_society_savings,32,none,own,2,skilled_employee,2,yes_registered,yes,Good
+<0 DM,20,existing_credits_paid_duly,radio_television,339,<100 DM,<1 year,4,male_single,none,1,unknown_no_property,70,none,own,1,highly_qualified_employee,1,none,yes,Bad
+<0 DM,24,existing_credits_paid_duly,radio_television,1354,<100 DM,unemployed,2,female_divorced_separated_married,none,4,car_or_other,32,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,34,existing_credits_paid_duly,car_new,3426,<100 DM,1_to_4 years,3,male_married_widowed,none,3,building_society_savings,55,none,own,1,unskilled_resident,1,none,yes,Bad
+0_to_200 DM,30,delay_in_past,furniture_equipment,2634,<100 DM,>7 years,4,female_divorced_separated_married,none,2,building_society_savings,26,none,own,1,unskilled_resident,1,none,yes,Good
+>200 DM,10,existing_credits_paid_duly,car_new,2439,unknown_no_savings,1_to_4 years,4,male_single,none,4,real_estate,28,none,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,6,existing_credits_paid_duly,radio_television,1486,unknown_no_savings,4_to_7 years,3,female_single,none,4,real_estate,30,none,own,1,unemployed_unskilled_non_resident,1,none,yes,Good
+0_to_200 DM,30,critical_account,business,738,<100 DM,>7 years,2,male_single,none,2,car_or_other,29,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,10,existing_credits_paid_duly,radio_television,2593,unknown_no_savings,1_to_4 years,4,male_single,none,1,real_estate,34,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,18,existing_credits_paid_duly,car_new,1008,<100 DM,<1 year,4,male_single,none,2,car_or_other,30,none,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,11,existing_credits_paid_duly,furniture_equipment,8340,<100 DM,1_to_4 years,3,male_single,none,3,unknown_no_property,29,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,8,no_credits_taken,radio_television,2695,100_to_500 DM,>7 years,2,male_single,none,4,real_estate,48,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,25,no_credits_taken,furniture_equipment,1204,100_to_500 DM,>7 years,4,male_single,none,4,building_society_savings,49,none,own,1,highly_qualified_employee,1,none,yes,Good
+no_checking_account,28,existing_credits_paid_duly,education,1178,unknown_no_savings,<1 year,2,female_single,none,3,car_or_other,46,bank,own,3,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,15,critical_account,repairs,1694,<100 DM,4_to_7 years,2,female_single,none,4,car_or_other,41,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,6,existing_credits_paid_duly,radio_television,1528,100_to_500 DM,1_to_4 years,3,male_married_widowed,none,3,car_or_other,37,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,15,critical_account,furniture_equipment,3951,<100 DM,>7 years,2,male_married_widowed,none,4,building_society_savings,32,none,rent,1,unskilled_resident,2,yes_registered,yes,Good
+no_checking_account,23,existing_credits_paid_duly,car_used,2060,<100 DM,<1 year,4,male_single,none,2,building_society_savings,28,stores,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,10,existing_credits_paid_duly,car_new,1083,<100 DM,1_to_4 years,2,male_single,none,2,car_or_other,40,none,for_free,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,21,existing_credits_paid_duly,furniture_equipment,6790,unknown_no_savings,>7 years,4,female_single,none,4,unknown_no_property,27,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,19,existing_credits_paid_duly,furniture_equipment,1871,>1000 DM,1_to_4 years,2,male_single,none,1,building_society_savings,28,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,26,critical_account,radio_television,3096,>1000 DM,1_to_4 years,1,female_single,none,4,unknown_no_property,48,none,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,21,existing_credits_paid_duly,radio_television,1181,<100 DM,<1 year,2,male_single,none,4,real_estate,58,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,12,existing_credits_paid_duly,car_new,2331,<100 DM,1_to_4 years,4,male_single,none,2,unknown_no_property,40,none,for_free,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,34,critical_account,furniture_equipment,2247,<100 DM,1_to_4 years,4,male_single,none,3,car_or_other,48,bank,rent,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,18,critical_account,car_new,481,<100 DM,>7 years,2,female_single,none,4,building_society_savings,34,none,own,1,highly_qualified_employee,2,yes_registered,yes,Good
+<0 DM,19,critical_account,car_new,7410,<100 DM,1_to_4 years,4,female_divorced_separated_married,guarantor,4,car_or_other,26,bank,own,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,13,existing_credits_paid_duly,repairs,4462,500_to_1000 DM,1_to_4 years,4,male_single,none,2,real_estate,42,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,16,critical_account,car_new,1369,<100 DM,4_to_7 years,4,male_single,none,2,real_estate,42,none,for_free,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,13,existing_credits_paid_duly,furniture_equipment,835,<100 DM,<1 year,3,male_single,none,4,real_estate,37,none,own,1,highly_qualified_employee,1,yes_registered,yes,Bad
+<0 DM,18,existing_credits_paid_duly,car_new,2306,<100 DM,1_to_4 years,4,male_single,none,3,real_estate,34,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,43,existing_credits_paid_duly,education,1921,<100 DM,4_to_7 years,1,male_single,none,2,building_society_savings,46,bank,own,3,skilled_employee,1,yes_registered,yes,Good
+<0 DM,10,existing_credits_paid_duly,radio_television,2319,<100 DM,>7 years,3,male_single,none,2,car_or_other,28,none,own,1,unskilled_resident,1,none,yes,Bad
+0_to_200 DM,9,existing_credits_paid_duly,car_new,2067,unknown_no_savings,4_to_7 years,4,male_single,none,4,car_or_other,30,bank,own,3,highly_qualified_employee,1,none,yes,Good
+no_checking_account,38,existing_credits_paid_duly,furniture_equipment,2576,100_to_500 DM,4_to_7 years,3,male_single,none,4,real_estate,28,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,18,critical_account,radio_television,4979,>1000 DM,<1 year,2,male_single,none,4,unknown_no_property,37,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,14,existing_credits_paid_duly,business,2691,<100 DM,>7 years,2,male_single,none,4,car_or_other,27,bank,own,1,unskilled_resident,2,yes_registered,yes,Good
+<0 DM,32,all_credits_paid_back,car_new,867,<100 DM,<1 year,4,female_divorced_separated_married,none,4,unknown_no_property,30,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,15,all_credits_paid_back,retraining,4692,<100 DM,>7 years,4,female_single,co-applicant,2,car_or_other,30,none,for_free,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,45,critical_account,business,5701,unknown_no_savings,1_to_4 years,3,male_single,none,4,real_estate,34,bank,own,2,skilled_employee,1,none,yes,Good
+<0 DM,27,existing_credits_paid_duly,business,16423,>1000 DM,>7 years,4,male_single,none,1,building_society_savings,25,bank,own,1,skilled_employee,2,none,yes,Bad
+0_to_200 DM,16,existing_credits_paid_duly,radio_television,823,<100 DM,4_to_7 years,1,male_single,none,4,car_or_other,37,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,53,critical_account,radio_television,2143,<100 DM,>7 years,2,male_single,none,3,real_estate,49,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+<0 DM,15,critical_account,furniture_equipment,420,<100 DM,<1 year,4,male_single,none,2,real_estate,37,none,own,2,skilled_employee,1,none,yes,Bad
+<0 DM,28,existing_credits_paid_duly,radio_television,2662,100_to_500 DM,1_to_4 years,2,male_single,none,4,real_estate,53,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,22,delay_in_past,radio_television,1231,unknown_no_savings,4_to_7 years,2,male_single,none,4,real_estate,51,none,own,2,skilled_employee,2,none,yes,Bad
+<0 DM,36,critical_account,radio_television,6949,<100 DM,>7 years,3,male_single,none,1,building_society_savings,44,none,own,2,unskilled_resident,2,yes_registered,yes,Bad
+0_to_200 DM,40,delay_in_past,furniture_equipment,1051,<100 DM,<1 year,4,male_single,none,3,building_society_savings,37,none,own,2,skilled_employee,2,none,yes,Bad
+0_to_200 DM,20,existing_credits_paid_duly,radio_television,554,<100 DM,>7 years,2,female_divorced_separated_married,none,2,real_estate,36,none,own,1,unskilled_resident,2,yes_registered,yes,Good
+no_checking_account,14,critical_account,repairs,1299,<100 DM,>7 years,4,male_single,none,2,car_or_other,44,none,own,1,highly_qualified_employee,2,yes_registered,yes,Bad
+<0 DM,24,existing_credits_paid_duly,car_new,453,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,4,car_or_other,33,none,rent,3,skilled_employee,1,none,yes,Good
+no_checking_account,14,existing_credits_paid_duly,education,3058,<100 DM,>7 years,2,female_divorced_separated_married,none,2,building_society_savings,22,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,49,existing_credits_paid_duly,radio_television,426,500_to_1000 DM,1_to_4 years,4,female_single,none,4,real_estate,41,none,own,2,skilled_employee,1,none,yes,Bad
+<0 DM,21,no_credits_taken,education,1844,500_to_1000 DM,1_to_4 years,3,male_single,none,2,real_estate,27,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,17,existing_credits_paid_duly,furniture_equipment,422,<100 DM,1_to_4 years,3,male_single,none,4,building_society_savings,28,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,21,critical_account,furniture_equipment,1444,unknown_no_savings,4_to_7 years,4,male_single,none,4,real_estate,36,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+<0 DM,10,no_credits_taken,business,5712,<100 DM,4_to_7 years,4,female_single,none,2,building_society_savings,35,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,12,existing_credits_paid_duly,car_used,2327,<100 DM,1_to_4 years,2,male_single,none,2,car_or_other,25,bank,own,2,highly_qualified_employee,1,none,yes,Good
+no_checking_account,34,existing_credits_paid_duly,education,987,<100 DM,4_to_7 years,3,male_single,none,4,car_or_other,38,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,14,all_credits_paid_back,furniture_equipment,1768,<100 DM,4_to_7 years,3,male_single,none,4,real_estate,46,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,12,critical_account,furniture_equipment,1830,<100 DM,4_to_7 years,3,female_single,co-applicant,2,building_society_savings,27,none,own,1,unskilled_resident,1,none,yes,Good
+<0 DM,25,existing_credits_paid_duly,car_used,2517,<100 DM,unemployed,3,male_married_widowed,none,3,car_or_other,50,bank,rent,1,unskilled_resident,1,yes_registered,yes,Bad
+0_to_200 DM,34,existing_credits_paid_duly,radio_television,694,<100 DM,>7 years,1,male_married_widowed,none,1,unknown_no_property,24,none,own,1,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,27,existing_credits_paid_duly,car_used,2737,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,2,car_or_other,62,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,31,existing_credits_paid_duly,car_new,272,<100 DM,1_to_4 years,3,male_single,none,3,car_or_other,33,none,own,1,highly_qualified_employee,2,yes_registered,yes,Good
+0_to_200 DM,14,no_credits_taken,car_used,1163,<100 DM,1_to_4 years,2,male_single,none,1,building_society_savings,37,none,for_free,2,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,10,critical_account,car_new,1284,<100 DM,1_to_4 years,4,male_single,none,4,building_society_savings,22,bank,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,39,critical_account,business,2816,100_to_500 DM,>7 years,4,male_married_widowed,none,4,unknown_no_property,36,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,17,existing_credits_paid_duly,business,1836,<100 DM,1_to_4 years,3,male_divorced_separated,none,4,real_estate,38,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,17,delay_in_past,furniture_equipment,675,unknown_no_savings,>7 years,2,female_divorced_separated_married,none,4,unknown_no_property,35,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,36,critical_account,radio_television,907,<100 DM,<1 year,4,male_single,none,4,car_or_other,31,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,25,critical_account,furniture_equipment,2077,<100 DM,1_to_4 years,2,female_divorced_separated_married,none,3,car_or_other,28,none,rent,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,24,existing_credits_paid_duly,radio_television,1710,<100 DM,>7 years,2,female_divorced_separated_married,none,3,real_estate,48,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,53,existing_credits_paid_duly,domestic_appliances,1205,<100 DM,>7 years,4,male_single,none,4,car_or_other,36,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,15,existing_credits_paid_duly,business,1291,<100 DM,<1 year,1,male_single,none,4,building_society_savings,53,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,30,critical_account,furniture_equipment,2943,<100 DM,1_to_4 years,1,male_divorced_separated,none,1,real_estate,32,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,20,critical_account,radio_television,1258,<100 DM,<1 year,1,male_single,none,4,real_estate,32,stores,own,1,highly_qualified_employee,2,none,yes,Good
+<0 DM,22,existing_credits_paid_duly,car_used,1699,<100 DM,1_to_4 years,2,male_single,none,4,unknown_no_property,44,none,own,2,unskilled_resident,1,none,yes,Good
+<0 DM,39,existing_credits_paid_duly,others,8258,<100 DM,>7 years,1,female_divorced_separated_married,none,4,car_or_other,24,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,25,critical_account,car_new,667,unknown_no_savings,>7 years,4,male_single,none,3,building_society_savings,27,none,own,3,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,25,critical_account,radio_television,494,<100 DM,<1 year,2,male_single,none,4,real_estate,48,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+0_to_200 DM,32,critical_account,radio_television,3129,>1000 DM,>7 years,2,male_single,none,4,car_or_other,27,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,17,critical_account,radio_television,1124,>1000 DM,4_to_7 years,2,male_single,none,1,car_or_other,23,none,own,3,skilled_employee,1,none,yes,Good
+0_to_200 DM,13,existing_credits_paid_duly,car_new,1446,<100 DM,1_to_4 years,4,male_divorced_separated,none,4,car_or_other,58,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,12,existing_credits_paid_duly,business,1046,<100 DM,1_to_4 years,3,female_single,none,2,building_society_savings,25,none,own,2,highly_qualified_employee,1,none,yes,Good
+no_checking_account,8,delay_in_past,car_new,1507,<100 DM,4_to_7 years,3,male_married_widowed,none,4,building_society_savings,38,stores,own,1,unskilled_resident,1,yes_registered,no,Good
+>200 DM,50,all_credits_paid_back,radio_television,5535,100_to_500 DM,1_to_4 years,4,female_single,none,3,car_or_other,37,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,12,existing_credits_paid_duly,car_new,3170,100_to_500 DM,1_to_4 years,3,male_divorced_separated,none,2,real_estate,19,none,own,2,unskilled_resident,1,none,yes,Good
+no_checking_account,18,critical_account,car_used,3306,>1000 DM,1_to_4 years,3,female_single,none,2,unknown_no_property,34,none,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,17,existing_credits_paid_duly,radio_television,670,unknown_no_savings,<1 year,2,male_married_widowed,none,4,car_or_other,40,none,own,4,skilled_employee,1,none,yes,Good
+<0 DM,23,critical_account,furniture_equipment,807,100_to_500 DM,>7 years,3,male_married_widowed,none,1,building_society_savings,39,none,own,2,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,28,existing_credits_paid_duly,car_new,250,<100 DM,1_to_4 years,2,female_divorced_separated_married,co-applicant,2,building_society_savings,45,bank,rent,2,skilled_employee,1,none,yes,Good
+>200 DM,29,critical_account,car_new,1026,<100 DM,<1 year,4,male_single,none,4,car_or_other,33,none,own,1,unskilled_resident,1,none,yes,Good
+no_checking_account,15,all_credits_paid_back,furniture_equipment,3532,unknown_no_savings,>7 years,2,female_single,none,2,real_estate,43,none,own,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,18,existing_credits_paid_duly,radio_television,2596,<100 DM,>7 years,4,male_single,none,3,building_society_savings,30,none,rent,1,unskilled_resident,1,none,yes,Good
+<0 DM,22,existing_credits_paid_duly,business,1548,<100 DM,>7 years,1,male_single,none,4,car_or_other,25,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,17,existing_credits_paid_duly,car_new,1780,100_to_500 DM,1_to_4 years,2,female_single,none,2,building_society_savings,26,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,41,critical_account,furniture_equipment,1116,<100 DM,<1 year,3,male_single,none,2,car_or_other,25,bank,own,2,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,25,critical_account,car_new,2086,unknown_no_savings,1_to_4 years,4,male_single,none,3,real_estate,47,none,own,1,skilled_employee,1,yes_registered,no,Good
+>200 DM,27,existing_credits_paid_duly,car_new,3090,100_to_500 DM,<1 year,3,male_single,none,4,car_or_other,25,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,27,existing_credits_paid_duly,radio_television,583,<100 DM,>7 years,4,female_single,none,4,real_estate,39,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,34,existing_credits_paid_duly,radio_television,2229,unknown_no_savings,<1 year,2,female_divorced_separated_married,none,4,real_estate,34,none,own,1,unemployed_unskilled_non_resident,1,none,yes,Good
+>200 DM,21,existing_credits_paid_duly,car_new,3472,<100 DM,1_to_4 years,2,male_single,none,4,unknown_no_property,35,none,own,2,highly_qualified_employee,1,none,yes,Good
+<0 DM,11,critical_account,car_new,1352,<100 DM,1_to_4 years,1,male_single,none,2,car_or_other,51,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,24,critical_account,car_new,2952,<100 DM,1_to_4 years,2,male_single,none,1,building_society_savings,32,none,rent,1,skilled_employee,1,none,yes,Good
+<0 DM,14,delay_in_past,education,12968,<100 DM,>7 years,2,male_single,none,2,real_estate,42,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,15,critical_account,business,1680,<100 DM,1_to_4 years,2,female_single,guarantor,2,car_or_other,36,bank,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,26,existing_credits_paid_duly,car_new,2381,<100 DM,<1 year,4,female_single,none,4,building_society_savings,35,none,rent,1,skilled_employee,1,none,yes,Bad
+<0 DM,35,critical_account,car_new,1078,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,4,unknown_no_property,65,none,own,2,skilled_employee,2,none,yes,Good
+0_to_200 DM,20,delay_in_past,education,2052,<100 DM,1_to_4 years,3,male_single,none,1,unknown_no_property,25,none,rent,1,unemployed_unskilled_non_resident,1,none,yes,Good
+<0 DM,23,critical_account,business,2495,>1000 DM,<1 year,3,male_divorced_separated,none,4,car_or_other,50,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,43,critical_account,furniture_equipment,2072,>1000 DM,4_to_7 years,3,male_single,none,2,building_society_savings,43,none,own,1,highly_qualified_employee,1,none,yes,Bad
+<0 DM,22,existing_credits_paid_duly,car_new,885,<100 DM,1_to_4 years,3,male_single,none,2,building_society_savings,32,none,for_free,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,64,critical_account,car_new,2089,<100 DM,4_to_7 years,2,female_single,none,4,car_or_other,54,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+0_to_200 DM,25,existing_credits_paid_duly,radio_television,5031,<100 DM,>7 years,2,male_married_widowed,none,2,real_estate,23,bank,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,9,existing_credits_paid_duly,furniture_equipment,2475,<100 DM,>7 years,4,female_divorced_separated_married,none,3,building_society_savings,32,none,own,2,highly_qualified_employee,2,none,yes,Good
+<0 DM,28,existing_credits_paid_duly,car_new,3545,>1000 DM,>7 years,4,female_divorced_separated_married,none,1,real_estate,27,bank,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,23,critical_account,radio_television,1531,500_to_1000 DM,1_to_4 years,2,male_single,none,2,real_estate,40,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,35,critical_account,car_new,3056,<100 DM,<1 year,1,male_single,guarantor,4,real_estate,27,bank,own,1,highly_qualified_employee,1,none,yes,Good
+no_checking_account,27,delay_in_past,radio_television,2198,<100 DM,1_to_4 years,4,male_single,none,4,building_society_savings,40,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,18,critical_account,car_used,929,<100 DM,>7 years,3,female_single,none,2,car_or_other,34,bank,own,3,skilled_employee,1,yes_registered,yes,Good
+<0 DM,11,existing_credits_paid_duly,car_new,2259,100_to_500 DM,>7 years,3,female_single,none,2,building_society_savings,32,none,rent,1,skilled_employee,1,none,yes,Good
+<0 DM,18,critical_account,radio_television,903,<100 DM,>7 years,3,male_single,none,4,building_society_savings,40,none,own,4,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,13,existing_credits_paid_duly,furniture_equipment,1160,unknown_no_savings,<1 year,2,female_single,none,4,real_estate,34,none,own,1,highly_qualified_employee,1,none,yes,Good
+no_checking_account,15,existing_credits_paid_duly,business,2064,>1000 DM,>7 years,4,male_single,none,2,car_or_other,27,none,own,1,highly_qualified_employee,2,yes_registered,no,Good
+>200 DM,26,existing_credits_paid_duly,radio_television,2226,<100 DM,1_to_4 years,3,male_single,none,3,real_estate,73,none,own,1,unemployed_unskilled_non_resident,1,yes_registered,yes,Good
+>200 DM,42,critical_account,car_used,786,<100 DM,unemployed,2,male_single,none,4,car_or_other,32,none,own,1,highly_qualified_employee,1,yes_registered,yes,Bad
+0_to_200 DM,23,critical_account,radio_television,3781,unknown_no_savings,1_to_4 years,3,female_divorced_separated_married,none,3,unknown_no_property,21,bank,own,1,unskilled_resident,1,none,yes,Bad
+no_checking_account,11,existing_credits_paid_duly,car_used,2698,<100 DM,unemployed,4,female_single,none,1,real_estate,29,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,24,no_credits_taken,business,1103,<100 DM,1_to_4 years,4,male_single,none,4,real_estate,26,none,own,1,skilled_employee,2,none,yes,Good
+0_to_200 DM,34,critical_account,furniture_equipment,616,<100 DM,1_to_4 years,1,male_single,none,2,building_society_savings,44,none,own,1,skilled_employee,2,yes_registered,yes,Bad
+0_to_200 DM,15,no_credits_taken,radio_television,1633,unknown_no_savings,1_to_4 years,3,male_single,none,3,unknown_no_property,39,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,18,delay_in_past,car_new,1323,100_to_500 DM,4_to_7 years,4,male_divorced_separated,none,3,car_or_other,40,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,20,critical_account,furniture_equipment,1957,100_to_500 DM,>7 years,4,female_divorced_separated_married,none,4,unknown_no_property,33,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,14,existing_credits_paid_duly,education,1402,unknown_no_savings,4_to_7 years,4,male_single,none,3,building_society_savings,34,none,for_free,1,skilled_employee,1,none,yes,Good
+no_checking_account,26,existing_credits_paid_duly,domestic_appliances,443,unknown_no_savings,1_to_4 years,2,male_single,none,2,unknown_no_property,33,none,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,19,delay_in_past,car_new,1377,unknown_no_savings,>7 years,4,male_single,none,2,real_estate,35,bank,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+>200 DM,24,critical_account,car_new,1459,<100 DM,>7 years,4,male_single,none,4,real_estate,45,none,for_free,1,unskilled_resident,1,none,yes,Good
+<0 DM,13,existing_credits_paid_duly,repairs,2817,<100 DM,<1 year,1,male_single,none,2,unknown_no_property,39,bank,own,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,16,critical_account,business,1109,500_to_1000 DM,1_to_4 years,3,male_single,none,2,unknown_no_property,41,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,27,all_credits_paid_back,car_new,5855,500_to_1000 DM,1_to_4 years,3,male_single,none,2,real_estate,41,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,16,existing_credits_paid_duly,furniture_equipment,474,100_to_500 DM,unemployed,4,female_single,guarantor,4,real_estate,45,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,43,critical_account,furniture_equipment,4527,<100 DM,4_to_7 years,2,male_single,none,3,real_estate,39,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+<0 DM,16,critical_account,education,1545,>1000 DM,>7 years,4,male_single,none,2,real_estate,40,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,22,existing_credits_paid_duly,car_new,3300,500_to_1000 DM,<1 year,4,female_divorced_separated_married,guarantor,2,real_estate,49,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,30,critical_account,car_new,1911,<100 DM,>7 years,4,male_single,none,4,unknown_no_property,30,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,10,existing_credits_paid_duly,radio_television,4014,<100 DM,>7 years,4,male_divorced_separated,none,3,car_or_other,29,bank,for_free,1,unskilled_resident,2,yes_registered,no,Good
+no_checking_account,9,existing_credits_paid_duly,car_new,1378,<100 DM,>7 years,4,male_single,none,4,car_or_other,27,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,10,existing_credits_paid_duly,furniture_equipment,837,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,4,car_or_other,38,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,35,critical_account,furniture_equipment,4887,<100 DM,>7 years,4,male_single,none,4,car_or_other,23,stores,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,15,existing_credits_paid_duly,car_used,1669,<100 DM,1_to_4 years,3,male_single,co-applicant,2,car_or_other,41,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,63,existing_credits_paid_duly,furniture_equipment,2111,<100 DM,1_to_4 years,4,male_single,none,4,car_or_other,35,none,own,3,skilled_employee,1,none,yes,Bad
+0_to_200 DM,15,existing_credits_paid_duly,radio_television,4291,100_to_500 DM,unemployed,2,female_divorced_separated_married,none,1,building_society_savings,48,none,own,2,highly_qualified_employee,1,none,no,Good
+0_to_200 DM,21,critical_account,car_new,877,100_to_500 DM,unemployed,4,female_divorced_separated_married,none,2,car_or_other,30,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,40,delay_in_past,radio_television,2743,unknown_no_savings,4_to_7 years,4,male_single,none,4,car_or_other,34,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,49,critical_account,domestic_appliances,1196,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,2,car_or_other,48,none,for_free,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,50,existing_credits_paid_duly,radio_television,1648,<100 DM,1_to_4 years,1,male_single,none,2,unknown_no_property,51,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,34,delay_in_past,car_new,1901,unknown_no_savings,<1 year,2,male_single,none,2,building_society_savings,30,none,own,1,skilled_employee,2,none,yes,Good
+<0 DM,31,existing_credits_paid_duly,car_new,632,<100 DM,4_to_7 years,4,male_single,none,3,car_or_other,38,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,26,critical_account,car_used,1048,unknown_no_savings,unemployed,1,male_single,co-applicant,3,real_estate,39,none,rent,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,28,critical_account,furniture_equipment,4655,unknown_no_savings,>7 years,4,male_married_widowed,none,4,car_or_other,40,none,own,1,skilled_employee,1,yes_registered,no,Good
+<0 DM,15,no_credits_taken,furniture_equipment,3362,<100 DM,<1 year,1,male_divorced_separated,none,4,building_society_savings,34,none,own,2,highly_qualified_employee,1,none,no,Bad
+<0 DM,13,delay_in_past,radio_television,1730,unknown_no_savings,<1 year,4,male_single,none,4,real_estate,50,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,20,all_credits_paid_back,car_new,2143,<100 DM,1_to_4 years,3,male_single,none,2,building_society_savings,22,none,own,3,skilled_employee,1,yes_registered,yes,Good
+>200 DM,18,existing_credits_paid_duly,car_new,1471,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,4,car_or_other,32,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,16,existing_credits_paid_duly,furniture_equipment,4673,100_to_500 DM,1_to_4 years,4,male_single,none,2,real_estate,40,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,27,existing_credits_paid_duly,radio_television,1571,<100 DM,1_to_4 years,3,male_single,none,2,unknown_no_property,41,bank,for_free,1,skilled_employee,1,none,yes,Bad
+no_checking_account,30,existing_credits_paid_duly,car_new,2126,unknown_no_savings,>7 years,2,male_single,none,1,real_estate,51,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,20,delay_in_past,radio_television,4032,<100 DM,4_to_7 years,1,male_single,guarantor,3,unknown_no_property,49,none,own,1,highly_qualified_employee,1,none,yes,Bad
+<0 DM,39,existing_credits_paid_duly,car_used,1049,<100 DM,unemployed,4,male_single,none,1,car_or_other,34,stores,for_free,2,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,12,critical_account,retraining,5383,<100 DM,1_to_4 years,3,male_single,co-applicant,2,building_society_savings,50,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,18,existing_credits_paid_duly,business,619,100_to_500 DM,>7 years,4,male_single,none,2,building_society_savings,30,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,14,all_credits_paid_back,car_used,5657,<100 DM,1_to_4 years,3,male_single,none,2,car_or_other,46,none,own,1,highly_qualified_employee,1,none,yes,Bad
+0_to_200 DM,8,critical_account,car_new,1392,<100 DM,<1 year,3,male_single,none,3,car_or_other,57,none,own,2,skilled_employee,1,none,yes,Bad
+0_to_200 DM,19,existing_credits_paid_duly,furniture_equipment,1525,unknown_no_savings,>7 years,3,male_divorced_separated,none,4,car_or_other,49,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,19,existing_credits_paid_duly,car_used,481,<100 DM,4_to_7 years,1,female_divorced_separated_married,none,4,building_society_savings,37,none,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,39,delay_in_past,radio_television,1315,unknown_no_savings,1_to_4 years,3,male_single,none,2,building_society_savings,33,stores,rent,2,skilled_employee,1,none,no,Bad
+no_checking_account,26,existing_credits_paid_duly,repairs,873,<100 DM,unemployed,4,female_single,none,2,unknown_no_property,24,none,own,1,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,12,all_credits_paid_back,radio_television,1181,500_to_1000 DM,<1 year,4,male_single,co-applicant,4,real_estate,39,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,46,existing_credits_paid_duly,repairs,1642,500_to_1000 DM,4_to_7 years,2,female_divorced_separated_married,none,1,building_society_savings,27,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,34,critical_account,furniture_equipment,3534,<100 DM,<1 year,4,male_married_widowed,none,4,building_society_savings,30,none,own,4,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,26,delay_in_past,car_new,2090,<100 DM,1_to_4 years,4,male_single,none,2,car_or_other,27,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,18,delay_in_past,radio_television,2242,unknown_no_savings,1_to_4 years,3,male_single,none,4,car_or_other,32,none,rent,1,highly_qualified_employee,2,yes_registered,yes,Good
+0_to_200 DM,13,delay_in_past,furniture_equipment,839,<100 DM,1_to_4 years,1,male_married_widowed,none,2,building_society_savings,36,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,16,existing_credits_paid_duly,radio_television,976,unknown_no_savings,>7 years,1,male_single,none,3,real_estate,39,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,32,existing_credits_paid_duly,car_used,6368,<100 DM,>7 years,3,female_divorced_separated_married,none,4,real_estate,31,bank,own,1,unskilled_resident,2,none,yes,Good
+0_to_200 DM,46,critical_account,car_new,1080,<100 DM,4_to_7 years,4,male_single,none,3,building_society_savings,47,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+>200 DM,40,existing_credits_paid_duly,others,5763,<100 DM,<1 year,4,male_single,none,2,building_society_savings,34,none,rent,3,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,16,existing_credits_paid_duly,car_new,1525,unknown_no_savings,<1 year,1,male_single,none,3,unknown_no_property,30,none,own,3,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,12,existing_credits_paid_duly,others,1810,<100 DM,1_to_4 years,2,male_single,none,4,building_society_savings,38,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,21,existing_credits_paid_duly,business,3824,unknown_no_savings,<1 year,4,female_single,none,1,real_estate,59,none,for_free,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,9,critical_account,radio_television,4404,unknown_no_savings,>7 years,4,female_single,guarantor,1,unknown_no_property,39,none,for_free,1,unskilled_resident,1,none,yes,Good
+no_checking_account,23,all_credits_paid_back,radio_television,1673,<100 DM,<1 year,4,male_married_widowed,none,3,building_society_savings,33,none,for_free,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,18,existing_credits_paid_duly,radio_television,1377,<100 DM,1_to_4 years,4,male_married_widowed,none,2,car_or_other,24,bank,for_free,1,highly_qualified_employee,2,none,yes,Good
+<0 DM,16,existing_credits_paid_duly,education,1738,500_to_1000 DM,1_to_4 years,1,female_single,none,4,real_estate,34,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,9,critical_account,car_used,2290,<100 DM,4_to_7 years,4,female_divorced_separated_married,none,2,building_society_savings,38,bank,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,25,existing_credits_paid_duly,furniture_equipment,3374,>1000 DM,<1 year,4,male_single,co-applicant,2,unknown_no_property,33,none,own,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,15,existing_credits_paid_duly,radio_television,1813,<100 DM,1_to_4 years,2,male_single,none,2,car_or_other,24,none,own,1,unskilled_resident,1,none,yes,Good
+no_checking_account,11,critical_account,furniture_equipment,2788,<100 DM,1_to_4 years,4,male_married_widowed,none,3,building_society_savings,29,none,own,2,skilled_employee,1,none,yes,Good
+no_checking_account,5,delay_in_past,furniture_equipment,5692,>1000 DM,>7 years,2,male_single,guarantor,1,car_or_other,52,stores,own,3,skilled_employee,2,yes_registered,yes,Good
+<0 DM,19,existing_credits_paid_duly,car_used,2361,<100 DM,unemployed,1,male_single,none,1,unknown_no_property,52,none,own,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,44,existing_credits_paid_duly,radio_television,2248,<100 DM,>7 years,2,female_divorced_separated_married,none,1,real_estate,29,none,own,1,highly_qualified_employee,1,yes_registered,yes,Bad
+<0 DM,42,existing_credits_paid_duly,education,624,<100 DM,>7 years,2,male_single,co-applicant,4,building_society_savings,43,none,rent,4,skilled_employee,1,none,yes,Good
+no_checking_account,16,existing_credits_paid_duly,car_new,286,<100 DM,1_to_4 years,3,male_single,none,2,unknown_no_property,27,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,15,existing_credits_paid_duly,business,2372,<100 DM,>7 years,3,female_divorced_separated_married,co-applicant,4,real_estate,51,stores,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+>200 DM,24,existing_credits_paid_duly,radio_television,1691,>1000 DM,unemployed,3,male_single,none,1,car_or_other,38,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,12,existing_credits_paid_duly,repairs,1260,<100 DM,>7 years,3,male_single,guarantor,1,car_or_other,46,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,23,existing_credits_paid_duly,radio_television,2144,<100 DM,1_to_4 years,2,male_single,none,3,car_or_other,23,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,28,delay_in_past,radio_television,1733,100_to_500 DM,1_to_4 years,1,male_single,guarantor,3,building_society_savings,43,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,34,critical_account,car_new,3981,<100 DM,1_to_4 years,4,male_single,none,4,building_society_savings,36,none,own,4,skilled_employee,1,none,yes,Bad
+<0 DM,19,existing_credits_paid_duly,repairs,1920,<100 DM,<1 year,3,male_single,none,4,car_or_other,45,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,18,all_credits_paid_back,car_new,1071,unknown_no_savings,>7 years,2,female_divorced_separated_married,none,4,real_estate,46,none,own,2,unskilled_resident,1,none,yes,Good
+<0 DM,13,all_credits_paid_back,retraining,3615,500_to_1000 DM,unemployed,4,male_married_widowed,none,3,building_society_savings,37,stores,own,1,unskilled_resident,1,none,yes,Bad
+0_to_200 DM,13,critical_account,others,1553,<100 DM,4_to_7 years,4,male_single,none,3,real_estate,31,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,18,existing_credits_paid_duly,car_used,2613,100_to_500 DM,1_to_4 years,4,male_single,none,2,real_estate,44,none,for_free,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,23,existing_credits_paid_duly,car_new,1294,<100 DM,>7 years,3,male_single,none,4,unknown_no_property,36,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,30,existing_credits_paid_duly,radio_television,1147,100_to_500 DM,1_to_4 years,2,female_divorced_separated_married,none,3,building_society_savings,29,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,13,delay_in_past,car_used,1917,<100 DM,1_to_4 years,4,male_married_widowed,none,3,unknown_no_property,29,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,39,delay_in_past,education,1824,<100 DM,1_to_4 years,2,male_single,guarantor,2,real_estate,25,none,rent,1,skilled_employee,1,none,yes,Good
+no_checking_account,17,existing_credits_paid_duly,car_new,2529,<100 DM,4_to_7 years,3,male_single,none,1,car_or_other,32,none,own,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,19,no_credits_taken,car_new,1498,<100 DM,<1 year,1,female_divorced_separated_married,none,4,real_estate,48,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,14,critical_account,business,499,<100 DM,<1 year,4,female_single,none,2,car_or_other,38,stores,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,6,existing_credits_paid_duly,radio_television,1335,unknown_no_savings,<1 year,2,male_single,none,3,car_or_other,32,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,29,delay_in_past,education,3151,<100 DM,4_to_7 years,4,female_divorced_separated_married,none,1,real_estate,44,bank,rent,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,27,delay_in_past,car_used,1468,<100 DM,<1 year,4,male_single,none,4,unknown_no_property,29,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,17,existing_credits_paid_duly,radio_television,1521,<100 DM,4_to_7 years,3,male_married_widowed,none,1,real_estate,37,none,own,2,skilled_employee,1,none,yes,Good
+>200 DM,20,existing_credits_paid_duly,radio_television,3606,<100 DM,<1 year,4,male_single,none,4,car_or_other,34,none,own,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,25,existing_credits_paid_duly,radio_television,1098,500_to_1000 DM,>7 years,4,male_single,none,2,unknown_no_property,44,none,own,1,unskilled_resident,1,none,yes,Good
+0_to_200 DM,9,existing_credits_paid_duly,radio_television,614,<100 DM,>7 years,4,male_single,none,4,unknown_no_property,24,none,rent,2,skilled_employee,1,none,yes,Good
+no_checking_account,15,critical_account,radio_television,1615,<100 DM,1_to_4 years,3,male_single,none,4,unknown_no_property,29,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,28,critical_account,furniture_equipment,1288,<100 DM,1_to_4 years,4,male_single,none,2,building_society_savings,24,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+>200 DM,11,existing_credits_paid_duly,car_used,919,500_to_1000 DM,1_to_4 years,3,female_divorced_separated_married,none,3,real_estate,34,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,22,existing_credits_paid_duly,radio_television,1599,<100 DM,unemployed,4,male_single,none,2,real_estate,49,none,own,2,skilled_employee,1,yes_registered,no,Good
+no_checking_account,10,critical_account,car_new,2550,<100 DM,1_to_4 years,3,female_single,none,2,building_society_savings,32,none,own,2,skilled_employee,1,yes_registered,no,Good
+<0 DM,24,critical_account,radio_television,1796,<100 DM,4_to_7 years,3,male_single,none,4,car_or_other,32,stores,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,19,critical_account,car_new,2241,<100 DM,1_to_4 years,4,male_single,none,2,real_estate,45,none,for_free,2,skilled_employee,1,none,yes,Good
+no_checking_account,9,existing_credits_paid_duly,radio_television,6434,<100 DM,>7 years,4,male_single,none,2,car_or_other,47,bank,own,2,unskilled_resident,1,yes_registered,no,Bad
+>200 DM,33,existing_credits_paid_duly,radio_television,1422,100_to_500 DM,1_to_4 years,3,male_single,none,2,building_society_savings,35,none,own,3,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,14,delay_in_past,car_new,2196,100_to_500 DM,4_to_7 years,2,male_married_widowed,none,2,building_society_savings,43,none,own,1,unemployed_unskilled_non_resident,1,yes_registered,yes,Good
+no_checking_account,13,delay_in_past,car_new,1265,unknown_no_savings,1_to_4 years,3,male_single,none,4,car_or_other,27,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,21,existing_credits_paid_duly,car_new,999,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,2,building_society_savings,51,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,33,no_credits_taken,radio_television,1200,<100 DM,1_to_4 years,4,female_single,none,4,car_or_other,62,none,own,4,skilled_employee,1,none,yes,Bad
+>200 DM,12,existing_credits_paid_duly,education,1293,<100 DM,1_to_4 years,4,male_single,none,4,real_estate,41,none,own,1,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,20,existing_credits_paid_duly,car_new,2325,unknown_no_savings,1_to_4 years,1,male_married_widowed,co-applicant,2,car_or_other,21,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,24,existing_credits_paid_duly,radio_television,9361,<100 DM,4_to_7 years,3,male_single,none,2,real_estate,31,none,own,1,unskilled_resident,2,none,yes,Good
+no_checking_account,27,critical_account,furniture_equipment,1095,500_to_1000 DM,>7 years,4,male_married_widowed,none,4,real_estate,42,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,21,existing_credits_paid_duly,furniture_equipment,1350,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,2,car_or_other,32,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,17,critical_account,business,1729,<100 DM,unemployed,1,male_single,none,1,unknown_no_property,50,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,13,existing_credits_paid_duly,car_used,2385,<100 DM,1_to_4 years,4,male_married_widowed,none,2,real_estate,42,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,20,delay_in_past,furniture_equipment,2174,<100 DM,1_to_4 years,3,female_divorced_separated_married,none,3,building_society_savings,30,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,12,critical_account,car_new,4442,unknown_no_savings,<1 year,2,female_divorced_separated_married,none,4,car_or_other,36,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,5,existing_credits_paid_duly,car_new,330,unknown_no_savings,>7 years,2,male_single,none,2,real_estate,29,none,own,1,skilled_employee,2,none,no,Good
+<0 DM,24,no_credits_taken,car_used,340,<100 DM,>7 years,2,male_married_widowed,none,1,car_or_other,34,none,for_free,1,highly_qualified_employee,1,yes_registered,yes,Bad
+no_checking_account,30,existing_credits_paid_duly,car_new,1277,<100 DM,>7 years,3,female_divorced_separated_married,none,4,car_or_other,31,none,own,3,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,6,existing_credits_paid_duly,radio_television,3897,unknown_no_savings,<1 year,1,male_married_widowed,none,4,real_estate,49,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,12,critical_account,furniture_equipment,604,100_to_500 DM,>7 years,2,male_single,none,3,building_society_savings,62,none,own,2,skilled_employee,1,yes_registered,yes,Good
+>200 DM,26,critical_account,radio_television,250,<100 DM,4_to_7 years,4,male_single,none,4,car_or_other,25,none,own,1,highly_qualified_employee,1,none,yes,Bad
+0_to_200 DM,50,existing_credits_paid_duly,car_new,2696,<100 DM,1_to_4 years,2,male_married_widowed,none,2,building_society_savings,22,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,20,existing_credits_paid_duly,car_used,2144,<100 DM,1_to_4 years,2,male_single,guarantor,4,car_or_other,34,none,own,1,skilled_employee,2,none,yes,Good
+0_to_200 DM,14,existing_credits_paid_duly,radio_television,842,<100 DM,>7 years,3,female_divorced_separated_married,none,2,real_estate,25,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,18,critical_account,business,906,<100 DM,1_to_4 years,3,male_single,none,2,car_or_other,37,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,37,no_credits_taken,car_new,917,<100 DM,1_to_4 years,4,male_single,none,4,real_estate,44,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,15,existing_credits_paid_duly,retraining,1953,<100 DM,1_to_4 years,3,male_single,none,2,car_or_other,53,none,own,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,14,existing_credits_paid_duly,radio_television,1166,<100 DM,4_to_7 years,4,male_married_widowed,none,4,building_society_savings,38,bank,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,16,delay_in_past,radio_television,2555,<100 DM,<1 year,4,male_single,none,2,real_estate,34,none,own,1,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,13,existing_credits_paid_duly,furniture_equipment,250,unknown_no_savings,>7 years,2,male_single,none,4,car_or_other,22,none,own,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,21,critical_account,car_new,992,100_to_500 DM,4_to_7 years,2,male_single,none,4,real_estate,36,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,41,existing_credits_paid_duly,car_new,822,<100 DM,4_to_7 years,3,female_divorced_separated_married,none,2,building_society_savings,37,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,23,existing_credits_paid_duly,radio_television,1511,unknown_no_savings,<1 year,3,female_divorced_separated_married,none,4,building_society_savings,42,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,17,critical_account,furniture_equipment,1240,unknown_no_savings,4_to_7 years,4,male_married_widowed,none,2,building_society_savings,30,stores,rent,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,17,critical_account,business,3160,<100 DM,<1 year,4,female_divorced_separated_married,guarantor,4,unknown_no_property,32,none,own,2,unemployed_unskilled_non_resident,1,none,no,Bad
+0_to_200 DM,9,no_credits_taken,furniture_equipment,491,<100 DM,<1 year,3,female_divorced_separated_married,none,3,car_or_other,25,none,rent,1,unskilled_resident,1,none,yes,Bad
+<0 DM,29,existing_credits_paid_duly,car_new,1866,500_to_1000 DM,1_to_4 years,2,male_single,none,4,real_estate,20,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,19,existing_credits_paid_duly,radio_television,2672,unknown_no_savings,1_to_4 years,2,male_single,none,3,car_or_other,27,none,own,2,skilled_employee,1,none,yes,Bad
+0_to_200 DM,18,existing_credits_paid_duly,car_used,6631,unknown_no_savings,4_to_7 years,4,male_married_widowed,none,2,car_or_other,24,none,own,2,skilled_employee,2,none,yes,Good
+0_to_200 DM,72,existing_credits_paid_duly,radio_television,1290,unknown_no_savings,<1 year,3,male_single,none,2,unknown_no_property,39,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,22,all_credits_paid_back,radio_television,2269,<100 DM,1_to_4 years,3,male_divorced_separated,none,2,building_society_savings,32,none,for_free,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,14,existing_credits_paid_duly,business,511,<100 DM,<1 year,2,male_single,none,4,car_or_other,31,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+>200 DM,16,critical_account,radio_television,338,<100 DM,>7 years,4,male_single,none,3,building_society_savings,28,none,own,1,highly_qualified_employee,1,yes_registered,yes,Bad
+no_checking_account,33,existing_credits_paid_duly,radio_television,3266,<100 DM,1_to_4 years,4,male_single,none,4,building_society_savings,19,none,for_free,3,highly_qualified_employee,1,yes_registered,yes,Bad
+<0 DM,21,delay_in_past,radio_television,1801,<100 DM,4_to_7 years,2,male_single,none,2,building_society_savings,53,none,own,3,unskilled_resident,1,none,yes,Good
+no_checking_account,10,all_credits_paid_back,business,4125,100_to_500 DM,1_to_4 years,3,male_married_widowed,none,3,real_estate,28,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,30,critical_account,car_used,691,<100 DM,<1 year,4,female_single,none,1,car_or_other,33,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,14,critical_account,car_new,2601,500_to_1000 DM,>7 years,3,male_single,guarantor,4,building_society_savings,25,none,rent,1,highly_qualified_employee,1,none,yes,Good
+<0 DM,46,critical_account,car_used,6688,<100 DM,1_to_4 years,4,male_single,none,4,unknown_no_property,46,none,rent,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,32,critical_account,car_new,2425,<100 DM,1_to_4 years,1,male_single,none,2,real_estate,37,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,16,critical_account,radio_television,2194,<100 DM,4_to_7 years,4,female_single,none,1,car_or_other,29,none,own,1,skilled_employee,2,yes_registered,yes,Bad
+no_checking_account,35,existing_credits_paid_duly,radio_television,1818,<100 DM,unemployed,1,female_single,none,2,unknown_no_property,33,none,own,3,skilled_employee,1,none,yes,Good
+0_to_200 DM,20,existing_credits_paid_duly,radio_television,602,500_to_1000 DM,>7 years,4,female_divorced_separated_married,none,4,car_or_other,55,none,own,2,unskilled_resident,1,yes_registered,yes,Good
+>200 DM,29,existing_credits_paid_duly,car_new,4669,100_to_500 DM,1_to_4 years,4,male_single,none,3,unknown_no_property,35,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,24,critical_account,radio_television,1178,unknown_no_savings,1_to_4 years,4,male_single,none,4,car_or_other,34,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,13,critical_account,car_used,2573,<100 DM,unemployed,4,male_divorced_separated,none,2,building_society_savings,28,none,for_free,1,highly_qualified_employee,1,yes_registered,yes,Bad
+<0 DM,15,existing_credits_paid_duly,radio_television,605,<100 DM,<1 year,4,male_divorced_separated,none,4,car_or_other,22,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,31,all_credits_paid_back,radio_television,791,<100 DM,>7 years,3,male_single,none,4,real_estate,35,none,own,1,highly_qualified_employee,2,yes_registered,yes,Good
+<0 DM,17,existing_credits_paid_duly,furniture_equipment,4937,<100 DM,4_to_7 years,4,male_single,none,2,car_or_other,39,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,16,critical_account,car_new,1417,unknown_no_savings,1_to_4 years,4,male_divorced_separated,none,3,real_estate,48,none,rent,1,skilled_employee,2,none,yes,Good
+<0 DM,13,existing_credits_paid_duly,car_new,5000,100_to_500 DM,<1 year,3,male_single,none,2,car_or_other,20,none,own,2,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,24,existing_credits_paid_duly,repairs,1711,unknown_no_savings,4_to_7 years,4,male_single,none,3,car_or_other,27,none,own,2,highly_qualified_employee,1,none,yes,Bad
+>200 DM,50,existing_credits_paid_duly,business,498,<100 DM,1_to_4 years,4,male_single,none,4,building_society_savings,31,bank,own,1,skilled_employee,1,yes_registered,no,Bad
+<0 DM,12,existing_credits_paid_duly,radio_television,3376,unknown_no_savings,1_to_4 years,3,male_single,none,2,real_estate,36,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,20,critical_account,car_new,1196,<100 DM,1_to_4 years,3,female_divorced_separated_married,guarantor,4,unknown_no_property,35,stores,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,37,delay_in_past,furniture_equipment,2948,unknown_no_savings,<1 year,2,male_single,none,3,real_estate,35,none,rent,2,skilled_employee,2,none,yes,Bad
+0_to_200 DM,19,critical_account,radio_television,1840,<100 DM,4_to_7 years,1,female_divorced_separated_married,none,2,real_estate,40,none,own,2,skilled_employee,2,none,yes,Good
+0_to_200 DM,24,existing_credits_paid_duly,radio_television,613,<100 DM,>7 years,2,male_single,none,3,real_estate,29,none,rent,1,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,12,delay_in_past,car_new,2028,<100 DM,<1 year,3,female_divorced_separated_married,none,3,unknown_no_property,46,none,own,1,unemployed_unskilled_non_resident,1,yes_registered,yes,Bad
+>200 DM,24,existing_credits_paid_duly,car_new,8411,unknown_no_savings,4_to_7 years,3,male_single,none,2,unknown_no_property,40,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,18,delay_in_past,radio_television,2553,<100 DM,1_to_4 years,3,female_divorced_separated_married,none,1,car_or_other,33,bank,own,4,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,31,existing_credits_paid_duly,furniture_equipment,1736,<100 DM,1_to_4 years,4,male_single,none,2,unknown_no_property,54,none,own,2,unskilled_resident,2,yes_registered,yes,Bad
+no_checking_account,34,existing_credits_paid_duly,car_used,3838,unknown_no_savings,1_to_4 years,3,male_single,none,1,real_estate,54,stores,for_free,1,skilled_employee,1,none,yes,Good
+no_checking_account,64,delay_in_past,car_new,2095,<100 DM,>7 years,3,female_divorced_separated_married,none,1,unknown_no_property,46,bank,own,1,skilled_employee,1,yes_registered,yes,Bad
+0_to_200 DM,26,critical_account,radio_television,2093,<100 DM,1_to_4 years,2,male_single,co-applicant,2,real_estate,19,stores,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,23,all_credits_paid_back,education,842,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,2,real_estate,54,none,own,1,unskilled_resident,2,yes_registered,yes,Good
+no_checking_account,21,critical_account,business,2129,<100 DM,1_to_4 years,4,male_single,none,4,real_estate,44,none,for_free,1,skilled_employee,1,none,yes,Good
+0_to_200 DM,17,existing_credits_paid_duly,radio_television,3732,unknown_no_savings,<1 year,4,male_single,none,2,car_or_other,60,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,23,existing_credits_paid_duly,furniture_equipment,1007,500_to_1000 DM,<1 year,4,male_single,none,4,car_or_other,49,none,own,3,skilled_employee,1,yes_registered,yes,Good
+<0 DM,17,no_credits_taken,car_new,4900,<100 DM,4_to_7 years,2,male_single,none,3,building_society_savings,54,bank,rent,1,skilled_employee,1,none,yes,Bad
+no_checking_account,21,existing_credits_paid_duly,radio_television,1695,unknown_no_savings,<1 year,4,female_single,none,4,unknown_no_property,45,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,36,existing_credits_paid_duly,furniture_equipment,971,<100 DM,4_to_7 years,2,male_single,none,2,building_society_savings,51,bank,own,2,unskilled_resident,1,yes_registered,yes,Good
+<0 DM,12,all_credits_paid_back,radio_television,3634,<100 DM,1_to_4 years,2,male_single,none,4,real_estate,60,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,33,existing_credits_paid_duly,furniture_equipment,1479,<100 DM,1_to_4 years,1,male_single,none,3,building_society_savings,38,stores,own,1,highly_qualified_employee,1,yes_registered,yes,Bad
+<0 DM,36,critical_account,car_used,3076,<100 DM,1_to_4 years,2,female_single,none,4,car_or_other,24,none,for_free,1,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,19,existing_credits_paid_duly,car_new,1474,<100 DM,1_to_4 years,2,male_single,none,2,car_or_other,33,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,7,critical_account,car_used,1733,unknown_no_savings,<1 year,2,male_single,none,1,building_society_savings,40,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,15,existing_credits_paid_duly,car_new,2554,500_to_1000 DM,1_to_4 years,4,male_married_widowed,none,4,car_or_other,37,none,for_free,1,skilled_employee,1,none,yes,Good
+no_checking_account,36,delay_in_past,car_new,2216,<100 DM,4_to_7 years,2,male_single,none,1,real_estate,26,none,rent,2,skilled_employee,1,none,yes,Good
+<0 DM,19,existing_credits_paid_duly,business,447,<100 DM,4_to_7 years,2,male_married_widowed,none,3,car_or_other,24,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,12,existing_credits_paid_duly,furniture_equipment,824,500_to_1000 DM,1_to_4 years,2,male_married_widowed,none,2,unknown_no_property,30,none,own,2,highly_qualified_employee,1,none,yes,Good
+<0 DM,16,existing_credits_paid_duly,radio_television,3465,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,4,real_estate,44,none,rent,1,skilled_employee,1,yes_registered,no,Good
+<0 DM,29,all_credits_paid_back,education,1648,unknown_no_savings,<1 year,1,male_single,none,4,unknown_no_property,54,none,own,2,unskilled_resident,1,yes_registered,yes,Bad
+<0 DM,25,existing_credits_paid_duly,others,1253,<100 DM,<1 year,4,male_single,none,3,car_or_other,46,none,own,2,skilled_employee,1,none,yes,Bad
+no_checking_account,18,delay_in_past,radio_television,698,>1000 DM,unemployed,4,male_single,co-applicant,4,real_estate,47,bank,own,2,unskilled_resident,2,yes_registered,yes,Good
+no_checking_account,17,critical_account,repairs,849,<100 DM,>7 years,2,male_single,none,3,unknown_no_property,35,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,16,critical_account,car_used,439,<100 DM,<1 year,3,male_single,none,3,building_society_savings,23,none,own,2,skilled_employee,1,none,no,Bad
+0_to_200 DM,13,delay_in_past,car_used,1684,<100 DM,<1 year,1,female_divorced_separated_married,none,4,building_society_savings,32,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,41,existing_credits_paid_duly,furniture_equipment,1189,<100 DM,1_to_4 years,4,male_divorced_separated,none,4,real_estate,34,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,17,existing_credits_paid_duly,radio_television,919,<100 DM,<1 year,3,male_single,none,4,real_estate,32,bank,rent,1,unskilled_resident,2,yes_registered,yes,Bad
+0_to_200 DM,34,existing_credits_paid_duly,radio_television,1723,<100 DM,4_to_7 years,2,female_divorced_separated_married,none,2,car_or_other,37,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,39,existing_credits_paid_duly,car_used,2332,<100 DM,<1 year,2,female_divorced_separated_married,none,3,car_or_other,40,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,31,existing_credits_paid_duly,car_new,7826,500_to_1000 DM,<1 year,4,female_divorced_separated_married,none,2,unknown_no_property,45,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,16,existing_credits_paid_duly,radio_television,627,<100 DM,4_to_7 years,3,male_single,guarantor,3,real_estate,34,none,own,1,highly_qualified_employee,1,yes_registered,no,Good
+<0 DM,24,existing_credits_paid_duly,car_new,4070,<100 DM,1_to_4 years,2,male_single,none,3,real_estate,22,none,own,3,skilled_employee,1,none,yes,Good
+<0 DM,19,existing_credits_paid_duly,radio_television,3573,<100 DM,4_to_7 years,4,male_divorced_separated,none,4,real_estate,32,none,rent,3,unemployed_unskilled_non_resident,1,yes_registered,yes,Good
+<0 DM,13,critical_account,radio_television,1047,unknown_no_savings,1_to_4 years,4,female_single,none,4,building_society_savings,37,none,own,1,highly_qualified_employee,2,none,yes,Bad
+>200 DM,23,critical_account,radio_television,2084,<100 DM,1_to_4 years,4,male_single,none,2,unknown_no_property,49,bank,own,1,unskilled_resident,1,yes_registered,yes,Bad
+0_to_200 DM,11,existing_credits_paid_duly,radio_television,1312,<100 DM,4_to_7 years,2,male_single,none,1,car_or_other,31,none,rent,2,unskilled_resident,1,none,yes,Bad
+no_checking_account,34,critical_account,education,2059,<100 DM,<1 year,4,male_single,guarantor,4,building_society_savings,41,bank,for_free,1,skilled_employee,1,none,yes,Bad
+no_checking_account,16,critical_account,furniture_equipment,5199,unknown_no_savings,1_to_4 years,4,male_single,none,2,unknown_no_property,39,none,rent,1,highly_qualified_employee,2,yes_registered,yes,Bad
+0_to_200 DM,21,existing_credits_paid_duly,radio_television,2762,unknown_no_savings,1_to_4 years,2,male_single,guarantor,4,car_or_other,37,none,own,3,skilled_employee,1,none,yes,Good
+<0 DM,22,existing_credits_paid_duly,radio_television,2581,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,1,real_estate,46,none,rent,3,skilled_employee,1,none,yes,Bad
+0_to_200 DM,17,existing_credits_paid_duly,car_new,1337,<100 DM,4_to_7 years,3,female_divorced_separated_married,none,2,car_or_other,31,bank,own,3,skilled_employee,1,none,yes,Good
+>200 DM,26,critical_account,car_new,639,unknown_no_savings,>7 years,4,male_married_widowed,none,4,building_society_savings,31,none,rent,1,skilled_employee,1,none,yes,Good
+<0 DM,16,critical_account,car_used,1562,<100 DM,>7 years,2,male_single,none,1,real_estate,36,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,29,existing_credits_paid_duly,furniture_equipment,4207,100_to_500 DM,4_to_7 years,4,male_single,none,2,real_estate,31,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,10,existing_credits_paid_duly,radio_television,620,<100 DM,1_to_4 years,3,male_married_widowed,none,2,building_society_savings,41,none,own,1,skilled_employee,2,none,yes,Good
+>200 DM,21,existing_credits_paid_duly,education,863,<100 DM,<1 year,4,male_single,none,4,building_society_savings,30,none,own,1,highly_qualified_employee,2,yes_registered,yes,Good
+0_to_200 DM,48,existing_credits_paid_duly,car_new,1975,<100 DM,1_to_4 years,2,male_single,none,4,building_society_savings,38,bank,rent,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,12,existing_credits_paid_duly,car_new,907,<100 DM,1_to_4 years,4,male_single,none,2,real_estate,35,none,own,1,unskilled_resident,2,yes_registered,yes,Good
+no_checking_account,14,critical_account,business,1038,100_to_500 DM,1_to_4 years,4,male_divorced_separated,none,1,car_or_other,38,none,rent,2,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,25,delay_in_past,car_new,1344,unknown_no_savings,>7 years,2,male_single,guarantor,4,unknown_no_property,32,none,for_free,2,skilled_employee,1,none,yes,Good
+<0 DM,21,critical_account,furniture_equipment,695,<100 DM,1_to_4 years,4,male_single,co-applicant,2,car_or_other,33,none,rent,2,highly_qualified_employee,1,yes_registered,yes,Bad
+no_checking_account,23,critical_account,radio_television,914,>1000 DM,1_to_4 years,4,male_married_widowed,none,4,building_society_savings,37,none,own,1,unskilled_resident,1,none,yes,Good
+0_to_200 DM,25,critical_account,radio_television,2958,<100 DM,1_to_4 years,2,female_single,none,1,real_estate,38,none,own,1,unskilled_resident,1,none,yes,Bad
+no_checking_account,26,existing_credits_paid_duly,car_new,724,<100 DM,>7 years,3,female_single,none,2,real_estate,36,none,own,2,skilled_employee,1,yes_registered,no,Good
+no_checking_account,33,existing_credits_paid_duly,car_new,590,<100 DM,4_to_7 years,3,female_single,none,4,real_estate,56,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,24,existing_credits_paid_duly,car_new,1163,unknown_no_savings,4_to_7 years,2,male_single,none,2,car_or_other,28,none,own,1,skilled_employee,2,yes_registered,yes,Good
+<0 DM,18,delay_in_past,radio_television,3018,500_to_1000 DM,1_to_4 years,1,male_single,none,4,car_or_other,36,bank,own,1,skilled_employee,2,yes_registered,yes,Bad
+<0 DM,27,existing_credits_paid_duly,radio_television,1575,100_to_500 DM,>7 years,2,male_single,none,1,car_or_other,24,stores,for_free,1,unskilled_resident,1,yes_registered,yes,Good
+0_to_200 DM,47,delay_in_past,car_new,1306,unknown_no_savings,unemployed,2,male_single,none,2,car_or_other,40,none,own,2,skilled_employee,2,yes_registered,yes,Good
+no_checking_account,18,existing_credits_paid_duly,radio_television,1865,100_to_500 DM,>7 years,3,male_married_widowed,none,4,building_society_savings,27,none,own,2,skilled_employee,1,none,yes,Good
+<0 DM,12,existing_credits_paid_duly,repairs,532,unknown_no_savings,1_to_4 years,2,female_divorced_separated_married,none,2,building_society_savings,34,bank,own,3,skilled_employee,2,yes_registered,yes,Good
+<0 DM,33,existing_credits_paid_duly,car_new,2556,500_to_1000 DM,1_to_4 years,4,female_single,none,4,car_or_other,33,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,19,no_credits_taken,furniture_equipment,2364,unknown_no_savings,1_to_4 years,4,male_married_widowed,none,2,building_society_savings,39,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,7,critical_account,radio_television,1357,<100 DM,4_to_7 years,1,female_single,none,3,real_estate,31,none,own,2,skilled_employee,2,yes_registered,yes,Good
+0_to_200 DM,29,critical_account,car_used,3656,<100 DM,unemployed,4,male_married_widowed,none,4,building_society_savings,31,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,15,existing_credits_paid_duly,car_used,821,<100 DM,>7 years,4,male_single,none,2,real_estate,52,none,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,19,existing_credits_paid_duly,radio_television,3981,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,4,real_estate,39,none,own,3,unskilled_resident,1,none,yes,Good
+<0 DM,23,all_credits_paid_back,business,2014,<100 DM,1_to_4 years,1,female_divorced_separated_married,none,3,car_or_other,31,none,for_free,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,21,no_credits_taken,domestic_appliances,1428,<100 DM,<1 year,2,male_single,none,2,unknown_no_property,34,none,own,3,skilled_employee,2,yes_registered,yes,Good
+<0 DM,27,existing_credits_paid_duly,radio_television,1783,100_to_500 DM,1_to_4 years,4,male_single,none,3,real_estate,55,bank,own,1,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,16,critical_account,radio_television,1677,<100 DM,1_to_4 years,4,male_married_widowed,none,3,real_estate,34,none,own,1,unskilled_resident,2,yes_registered,no,Bad
+0_to_200 DM,25,existing_credits_paid_duly,furniture_equipment,4247,<100 DM,1_to_4 years,4,female_single,none,2,car_or_other,30,none,own,2,highly_qualified_employee,1,yes_registered,yes,Good
+>200 DM,17,existing_credits_paid_duly,radio_television,850,<100 DM,4_to_7 years,4,male_single,none,2,real_estate,30,none,rent,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,28,existing_credits_paid_duly,furniture_equipment,1060,unknown_no_savings,1_to_4 years,1,male_divorced_separated,none,2,building_society_savings,31,bank,rent,2,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,26,existing_credits_paid_duly,car_new,3734,<100 DM,>7 years,3,female_divorced_separated_married,co-applicant,2,real_estate,31,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,13,existing_credits_paid_duly,radio_television,1191,<100 DM,4_to_7 years,2,female_divorced_separated_married,none,4,real_estate,26,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,32,existing_credits_paid_duly,radio_television,3396,500_to_1000 DM,>7 years,2,male_single,none,3,car_or_other,27,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,15,existing_credits_paid_duly,furniture_equipment,5940,100_to_500 DM,<1 year,4,male_single,none,4,car_or_other,29,none,own,1,skilled_employee,1,none,yes,Bad
+no_checking_account,28,all_credits_paid_back,business,1364,<100 DM,1_to_4 years,2,male_divorced_separated,none,2,real_estate,42,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,23,existing_credits_paid_duly,car_new,2913,<100 DM,1_to_4 years,3,male_single,none,2,building_society_savings,33,none,for_free,2,unskilled_resident,1,yes_registered,yes,Good
+>200 DM,45,existing_credits_paid_duly,car_used,806,<100 DM,1_to_4 years,4,female_divorced_separated_married,none,4,real_estate,34,none,own,2,skilled_employee,1,yes_registered,yes,Good
+>200 DM,18,existing_credits_paid_duly,car_new,3066,unknown_no_savings,>7 years,2,male_single,none,3,real_estate,50,none,own,1,skilled_employee,1,none,yes,Good
+no_checking_account,17,critical_account,radio_television,2078,<100 DM,<1 year,4,male_single,none,3,unknown_no_property,50,none,own,2,skilled_employee,1,yes_registered,yes,Good
+<0 DM,19,existing_credits_paid_duly,radio_television,2517,<100 DM,<1 year,4,male_single,none,1,car_or_other,34,none,rent,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,17,existing_credits_paid_duly,car_used,1150,<100 DM,>7 years,3,male_single,none,2,car_or_other,31,bank,rent,1,unskilled_resident,1,none,yes,Good
+0_to_200 DM,28,existing_credits_paid_duly,radio_television,565,<100 DM,<1 year,2,female_single,none,2,car_or_other,29,none,rent,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,9,existing_credits_paid_duly,furniture_equipment,2571,>1000 DM,4_to_7 years,2,female_divorced_separated_married,none,4,car_or_other,43,none,own,3,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,12,existing_credits_paid_duly,radio_television,426,<100 DM,1_to_4 years,3,male_single,none,2,car_or_other,34,bank,own,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,12,delay_in_past,furniture_equipment,1447,<100 DM,>7 years,2,male_single,none,4,real_estate,33,none,rent,1,skilled_employee,1,none,yes,Bad
+<0 DM,30,delay_in_past,furniture_equipment,3494,<100 DM,<1 year,2,male_single,none,4,real_estate,29,none,rent,2,unskilled_resident,2,none,yes,Bad
+no_checking_account,43,existing_credits_paid_duly,business,2067,<100 DM,<1 year,4,female_single,none,2,car_or_other,30,none,own,1,skilled_employee,1,none,yes,Bad
+<0 DM,19,existing_credits_paid_duly,car_used,7071,<100 DM,1_to_4 years,2,male_single,none,3,building_society_savings,39,none,own,1,unemployed_unskilled_non_resident,1,none,yes,Bad
+>200 DM,18,existing_credits_paid_duly,car_new,3705,>1000 DM,>7 years,4,male_single,none,4,unknown_no_property,26,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,20,critical_account,radio_television,1143,>1000 DM,1_to_4 years,1,female_divorced_separated_married,none,4,car_or_other,46,none,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,33,delay_in_past,business,1842,unknown_no_savings,1_to_4 years,4,male_single,none,2,unknown_no_property,32,bank,own,1,skilled_employee,1,none,yes,Bad
+0_to_200 DM,13,existing_credits_paid_duly,furniture_equipment,1749,unknown_no_savings,4_to_7 years,4,male_single,none,2,real_estate,35,none,own,2,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,22,existing_credits_paid_duly,car_new,597,100_to_500 DM,>7 years,2,female_divorced_separated_married,none,2,unknown_no_property,26,none,rent,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,31,existing_credits_paid_duly,furniture_equipment,936,<100 DM,>7 years,2,male_single,none,1,building_society_savings,36,none,own,2,skilled_employee,1,none,yes,Good
+0_to_200 DM,25,existing_credits_paid_duly,furniture_equipment,1221,>1000 DM,>7 years,4,male_single,none,3,unknown_no_property,33,none,for_free,2,unskilled_resident,1,yes_registered,yes,Good
+>200 DM,21,existing_credits_paid_duly,car_new,434,unknown_no_savings,unemployed,4,female_divorced_separated_married,none,4,real_estate,36,none,for_free,1,highly_qualified_employee,1,yes_registered,yes,Good
+0_to_200 DM,31,existing_credits_paid_duly,radio_television,1869,>1000 DM,<1 year,4,male_single,none,2,car_or_other,52,none,own,1,skilled_employee,1,yes_registered,no,Bad
+no_checking_account,5,delay_in_past,others,1518,<100 DM,4_to_7 years,2,male_single,none,4,car_or_other,38,none,for_free,2,skilled_employee,1,none,yes,Good
+no_checking_account,27,existing_credits_paid_duly,furniture_equipment,560,<100 DM,>7 years,2,female_divorced_separated_married,none,4,building_society_savings,30,bank,own,3,unemployed_unskilled_non_resident,1,yes_registered,yes,Good
+no_checking_account,14,existing_credits_paid_duly,furniture_equipment,2399,unknown_no_savings,1_to_4 years,4,male_single,none,2,building_society_savings,30,none,rent,1,skilled_employee,1,none,yes,Good
+<0 DM,8,critical_account,furniture_equipment,2984,500_to_1000 DM,1_to_4 years,4,male_single,none,2,unknown_no_property,42,none,for_free,1,skilled_employee,1,yes_registered,yes,Good
+<0 DM,25,existing_credits_paid_duly,car_new,2119,unknown_no_savings,>7 years,3,male_single,none,4,building_society_savings,50,none,rent,1,unskilled_resident,1,none,yes,Good
+<0 DM,37,existing_credits_paid_duly,retraining,1441,<100 DM,unemployed,4,male_single,none,4,car_or_other,39,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+>200 DM,18,existing_credits_paid_duly,furniture_equipment,2735,<100 DM,1_to_4 years,3,male_single,none,4,real_estate,43,none,own,1,skilled_employee,1,none,yes,Good
+<0 DM,30,no_credits_taken,furniture_equipment,2910,<100 DM,1_to_4 years,3,male_single,none,1,car_or_other,42,none,own,1,unemployed_unskilled_non_resident,1,none,yes,Bad
+0_to_200 DM,41,critical_account,radio_television,2242,>1000 DM,1_to_4 years,2,female_single,none,2,car_or_other,52,none,own,1,skilled_employee,2,yes_registered,yes,Good
+>200 DM,36,all_credits_paid_back,furniture_equipment,1015,<100 DM,4_to_7 years,3,male_single,none,1,building_society_savings,22,none,own,1,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,42,existing_credits_paid_duly,radio_television,2194,<100 DM,1_to_4 years,3,female_divorced_separated_married,none,3,real_estate,43,none,own,1,unskilled_resident,1,yes_registered,yes,Good
+no_checking_account,28,existing_credits_paid_duly,car_new,4174,unknown_no_savings,4_to_7 years,1,male_single,none,4,car_or_other,46,none,own,1,skilled_employee,2,none,yes,Good
+<0 DM,20,delay_in_past,repairs,1190,<100 DM,4_to_7 years,3,female_single,none,1,real_estate,26,bank,own,2,skilled_employee,2,yes_registered,yes,Good
+<0 DM,9,delay_in_past,business,7852,unknown_no_savings,1_to_4 years,4,female_divorced_separated_married,none,4,real_estate,29,none,for_free,3,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,17,existing_credits_paid_duly,radio_television,1251,<100 DM,4_to_7 years,4,female_single,none,3,car_or_other,29,none,own,1,highly_qualified_employee,1,none,yes,Good
+0_to_200 DM,13,no_credits_taken,business,1849,unknown_no_savings,1_to_4 years,4,female_single,none,4,real_estate,30,none,own,1,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,53,critical_account,car_new,1129,<100 DM,<1 year,4,female_divorced_separated_married,none,4,real_estate,32,none,own,3,skilled_employee,1,yes_registered,yes,Good
+0_to_200 DM,18,existing_credits_paid_duly,furniture_equipment,2113,unknown_no_savings,<1 year,1,female_single,none,1,car_or_other,38,none,own,2,skilled_employee,2,none,yes,Good
+<0 DM,21,critical_account,radio_television,534,unknown_no_savings,<1 year,3,male_single,guarantor,4,real_estate,45,none,rent,1,highly_qualified_employee,1,yes_registered,yes,Good
+no_checking_account,25,critical_account,radio_television,1233,<100 DM,1_to_4 years,4,male_married_widowed,none,1,building_society_savings,47,none,own,1,unskilled_resident,1,yes_registered,yes,Bad
+no_checking_account,20,critical_account,furniture_equipment,841,<100 DM,>7 years,3,male_single,none,2,real_estate,29,none,own,1,skilled_employee,1,yes_registered,yes,Good
+no_checking_account,43,existing_credits_paid_duly,furniture_equipment,1987,<100 DM,4_to_7 years,2,male_single,none,4,car_or_other,29,none,own,1,skilled_employee,2,none,yes,Good
+<0 DM,15,existing_credits_paid_duly,car_new,3626,100_to_500 DM,>7 years,2,male_single,none,4,car_or_other,50,none,rent,1,skilled_employee,2,yes_registered,yes,Good
+>200 DM,21,critical_account,furniture_equipment,2841,unknown_no_savings,1_to_4 years,4,male_single,none,3,car_or_other,43,none,rent,2,skilled_employee,2,none,yes,Good
+0_to_200 DM,14,existing_credits_paid_duly,car_new,343,<100 DM,1_to_4 years,3,male_divorced_separated,none,3,real_estate,37,none,own,1,highly_qualified_employee,1,yes_registered,yes,Good
+<0 DM,11,existing_credits_paid_duly,radio_television,7551,100_to_500 DM,1_to_4 years,4,male_single,none,4,real_estate,41,none,own,2,highly_qualified_employee,1,none,yes,Good
+no_checking_account,15,critical_account,car_new,2223,<100 DM,<1 year,4,female_divorced_separated_married,none,4,real_estate,36,none,own,2,skilled_employee,1,yes_registered,yes,Bad
+<0 DM,19,critical_account,car_new,1049,>1000 DM,unemployed,4,male_single,none,1,building_society_savings,41,stores,own,2,skilled_employee,1,yes_registered,yes,Bad
+no_checking_account,16,existing_credits_paid_duly,radio_television,2018,unknown_no_savings,4_to_7 years,4,male_single,none,4,unknown_no_property,33,bank,own,2,highly_qualified_employee,1,none,yes,Bad
+0_to_200 DM,14,all_credits_paid_back,radio_television,2045,<100 DM,>7 years,4,male_single,none,3,real_estate,39,none,rent,3,skilled_employee,1,yes_registered,yes,Good
